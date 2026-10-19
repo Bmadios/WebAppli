@@ -130,6 +130,66 @@ select {
 .hint { font-size: .8rem; color: var(--muted); }
 .feedback p, .list li { white-space: pre-line; }
 
+/* --- Aides clavier : visibles seulement avec une souris (PC) --- */
+.kbd-only { display: none; }
+.key {
+  display: inline-grid; place-items: center; flex: 0 0 auto;
+  width: 1.7em; height: 1.7em; margin-right: 12px; border-radius: 6px;
+  border: 1px solid var(--border); font-size: .85em; font-weight: 600; color: var(--muted);
+}
+.choice { display: flex; align-items: center; }
+@media (hover: hover) and (pointer: fine) {
+  .kbd-only { display: initial; }
+  p.kbd-only { display: block; }
+  .key.kbd-only { display: inline-grid; }
+  .touch-only { display: none; }
+}
+
+/* --- Largeur de lecture pour les cartes et le quiz --- */
+.narrow { max-width: 920px; margin-inline: auto; }
+
+/* --- Tablette / petit PC --- */
+@media (min-width: 720px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+  .actions .btn { flex: 0 1 220px; }
+}
+
+/* --- PC --- */
+@media (min-width: 1000px) {
+  body { font-size: 17px; }
+  .container { max-width: 1240px; padding: 32px 40px 48px; }
+  .topbar { padding-inline: max(40px, calc((100vw - 1240px) / 2 + 40px)); }
+
+  .bloc-layout {
+    display: grid; grid-template-columns: minmax(300px, 380px) 1fr;
+    gap: 48px; align-items: start;
+  }
+  .bloc-layout .panel {
+    position: sticky; top: 90px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 8px 20px 16px; box-shadow: var(--shadow);
+  }
+  .bloc-layout .panel .actions { justify-content: stretch; }
+  .bloc-layout .panel .actions .btn { flex: 1 1 0; }
+  .bloc-layout .h3 { margin-top: 0; }
+  .sections li { padding: 10px 0; border-bottom: 1px solid var(--border); list-style: none; }
+  .sections { padding-left: 0; }
+
+  .face { min-height: clamp(320px, 52vh, 560px); padding: 40px 56px; font-size: 1.4rem; }
+  .face.back { font-size: 1.15rem; line-height: 1.6; }
+  .question { font-size: 1.55rem; margin: 28px 0 20px; line-height: 1.35; }
+  .choices { grid-template-columns: 1fr 1fr; gap: 12px; }
+  .choice { padding: 16px 18px; min-height: 64px; }
+}
+
+/* --- Grand écran : les 4 blocs sur une ligne --- */
+@media (min-width: 1200px) {
+  .grid { grid-template-columns: repeat(4, 1fr); }
+  .bloc-card { display: flex; flex-direction: column; }
+  .bloc-card .badge { align-self: flex-start; }
+  .bloc-card h2 { flex: 1; }
+}
+
 /* --- Quiz --- */
 .question { font-size: 1.15rem; margin: 18px 0 14px; }
 .choices { display: grid; gap: 10px; }

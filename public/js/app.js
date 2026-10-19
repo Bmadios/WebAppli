@@ -89,26 +89,32 @@ async function renderBloc(id) {
       <span class="badge">Bloc ${b.id}</span>
       <h1>${esc(b.titre)}</h1>
 
-      <label class="field">
-        <span class="small muted">Section</span>
-        <select id="section">
-          <option value="">Toutes les sections</option>
-          ${b.sections.map((s) => `<option value="${esc(s.id)}">${esc(s.id)} — ${esc(s.titre)}</option>`).join('')}
-        </select>
-      </label>
+      <div class="bloc-layout">
+        <div class="panel">
+          <label class="field">
+            <span class="small muted">Section</span>
+            <select id="section">
+              <option value="">Toutes les sections</option>
+              ${b.sections.map((s) => `<option value="${esc(s.id)}">${esc(s.id)} — ${esc(s.titre)}</option>`).join('')}
+            </select>
+          </label>
 
-      <div class="actions">
-        <a id="go-cards" class="btn btn-primary" href="#/bloc/${b.id}/cartes">Flash cards</a>
-        <a id="go-quiz" class="btn" href="#/bloc/${b.id}/quiz">Quiz</a>
+          <div class="actions">
+            <a id="go-cards" class="btn btn-primary" href="#/bloc/${b.id}/cartes">Flash cards</a>
+            <a id="go-quiz" class="btn" href="#/bloc/${b.id}/quiz">Quiz</a>
+          </div>
+          <button id="reset" class="btn btn-ghost small">Réinitialiser ma progression pour ce bloc</button>
+        </div>
+
+        <div>
+          <h2 class="h3">Contenu</h2>
+          <ul class="list sections">
+            ${b.sections.map((s) => `
+              <li><strong>${esc(s.id)}</strong> ${esc(s.titre)}
+              <span class="muted small">— ${count(b.flashcards, s.id)} cartes, ${count(b.quiz, s.id)} questions</span></li>`).join('')}
+          </ul>
+        </div>
       </div>
-
-      <h2 class="h3">Contenu</h2>
-      <ul class="list">
-        ${b.sections.map((s) => `
-          <li><strong>${esc(s.id)}</strong> ${esc(s.titre)}
-          <span class="muted small">— ${count(b.flashcards, s.id)} cartes, ${count(b.quiz, s.id)} questions</span></li>`).join('')}
-      </ul>
-      <button id="reset" class="btn btn-ghost small">Réinitialiser ma progression pour ce bloc</button>
     </section>`;
 
   const sel = document.getElementById('section');
@@ -156,14 +162,14 @@ async function renderCards(id, section) {
     const c = deck[i];
     const isKnown = known.has(cardId(c));
     app.innerHTML = `
-      <div style="--accent:${b.couleur}">
+      <div class="narrow" style="--accent:${b.couleur}">
         <div class="row between small muted">
           <span>Carte ${i + 1} / ${deck.length} · section ${esc(c.section)}</span>
           <label><input type="checkbox" id="review" ${onlyReview ? 'checked' : ''}> À revoir seulement</label>
         </div>
         <button class="flip" id="flip" aria-label="Retourner la carte">
           <div class="flip-inner">
-            <div class="face front"><p>${esc(c.recto)}</p><span class="hint">Touche pour voir la réponse</span></div>
+            <div class="face front"><p>${esc(c.recto)}</p><span class="hint"><span class="touch-only">Touche</span><span class="kbd-only">Clique ou appuie sur Espace</span> pour voir la réponse</span></div>
             <div class="face back"><p>${esc(c.verso)}</p></div>
           </div>
         </button>
@@ -173,12 +179,19 @@ async function renderCards(id, section) {
           <button class="btn" id="next">Suiv. ›</button>
         </div>
         <p class="center small muted">${known.size} / ${b.flashcards.length} cartes maîtrisées dans le bloc</p>
+        <p class="center small muted kbd-only">Clavier : Espace = retourner · ← → = naviguer · M = je la sais</p>
       </div>`;
 
     const flip = document.getElementById('flip');
     flip.onclick = () => flip.classList.toggle('flipped');
     document.getElementById('prev').onclick = () => { i = Math.max(0, i - 1); draw(); };
     document.getElementById('next').onclick = () => { i = (i + 1) % deck.length; draw(); };
+    onKey = (e) => {
+      if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip.click(); }
+      else if (e.key === 'ArrowRight') document.getElementById('next').click();
+      else if (e.key === 'ArrowLeft' && i > 0) document.getElementById('prev').click();
+      else if (e.key.toLowerCase() === 'm') document.getElementById('know').click();
+    };
     document.getElementById('know').onclick = () => {
       const k = cardId(c);
       known.has(k) ? known.delete(k) : known.add(k);
@@ -223,7 +236,7 @@ async function renderQuiz(id, section) {
     if (i >= questions.length) return finish();
     const q = questions[i];
     app.innerHTML = `
-      <div style="--accent:${b.couleur}">
+      <div class="narrow" style="--accent:${b.couleur}">
         <div class="row between small muted">
           <span>Question ${i + 1} / ${questions.length} · section ${esc(q.section)}</span>
           <span>Score : ${score}</span>
@@ -231,10 +244,18 @@ async function renderQuiz(id, section) {
         <div class="progress"><span style="width:${100 * i / questions.length}%"></span></div>
         <h2 class="question">${esc(q.question)}</h2>
         <div class="choices">
-          ${q.opts.map((o, k) => `<button class="choice" data-k="${k}">${esc(o.txt)}</button>`).join('')}
+          ${q.opts.map((o, k) => `<button class="choice" data-k="${k}"><span class="key kbd-only">${k + 1}</span>${esc(o.txt)}</button>`).join('')}
         </div>
         <div id="feedback"></div>
+        <p class="center small muted kbd-only">Clavier : 1 à ${q.opts.length} = répondre · Entrée = question suivante</p>
       </div>`;
+
+    onKey = (e) => {
+      const next = document.getElementById('next');
+      if (next && (e.key === 'Enter' || e.key === 'ArrowRight')) { e.preventDefault(); next.click(); return; }
+      const btn = app.querySelectorAll('.choice')[Number(e.key) - 1];
+      if (btn && !btn.disabled) btn.click();
+    };
 
     app.querySelectorAll('.choice').forEach((btn) => {
       btn.onclick = () => {
@@ -262,8 +283,9 @@ async function renderQuiz(id, section) {
     const pct = Math.round(100 * score / questions.length);
     const best = store.get(scoreKey(b.id), 0) || 0;
     if (!section && pct > best) store.set(scoreKey(b.id), pct);
+    onKey = null;
     app.innerHTML = `
-      <div style="--accent:${b.couleur}">
+      <div class="narrow" style="--accent:${b.couleur}">
         <div class="center">
           <h1>${pct} %</h1>
           <p>${score} bonne(s) réponse(s) sur ${questions.length}</p>
@@ -289,9 +311,22 @@ function empty(b, msg) {
   app.innerHTML = `<p>${esc(msg)}</p><a class="btn" href="#/bloc/${b.id}">Retour au bloc</a>`;
 }
 
+/* ---------- Raccourcis clavier (PC) ---------- */
+
+// Chaque écran (cartes, quiz) installe son propre gestionnaire ici.
+let onKey = null;
+document.addEventListener('keydown', (e) => {
+  if (!onKey || e.ctrlKey || e.metaKey || e.altKey) return;
+  if (e.target.closest('input, select, textarea')) return;
+  // Laisse le navigateur gérer Entrée/Espace sur un bouton qui a le focus (sinon double clic).
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.closest('button, a')) return;
+  onKey(e);
+});
+
 /* ---------- Routeur ---------- */
 
 async function route() {
+  onKey = null;
   const [path, qs] = location.hash.replace(/^#/, '').split('?');
   const parts = path.split('/').filter(Boolean);
   const section = new URLSearchParams(qs || '').get('s') || '';
