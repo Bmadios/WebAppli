@@ -2,218 +2,1634 @@
   "id": 1,
   "titre": "Système professionnel et développement professionnel",
   "sections": [
-    { "id": "1.1", "titre": "Les rouages du système professionnel" },
-    { "id": "1.2", "titre": "Garder ses connaissances à jour : un devoir de l'ingénieur" }
+    {
+      "id": "1.1",
+      "titre": "Les rouages du système professionnel"
+    },
+    {
+      "id": "1.2",
+      "titre": "Garder ses connaissances à jour : un devoir de l'ingénieur"
+    }
   ],
   "flashcards": [
-    { "section": "1.1", "recto": "Autour de quel axe fondamental s'articule le système professionnel québécois ?", "verso": "La protection du public." },
-    { "section": "1.1", "recto": "Quels sont les 5 principes de base sur lesquels s'appuie le système professionnel québécois ?", "verso": "1. L'autogestion\n2. La déontologie\n3. La compétence\n4. La responsabilité professionnelle\n5. Le jugement par les pairs" },
-    { "section": "1.1", "recto": "Qu'est-ce que le Code des professions ?", "verso": "La loi-cadre du système professionnel, mise en place par le législateur. Elle :\n• vise à encadrer la prestation de services professionnels afin de protéger le public;\n• précise le mandat, les responsabilités, la structure et le fonctionnement des acteurs du système;\n• définit les responsabilités et devoirs des ordres et de leurs membres (contrôle de l'exercice);\n• prévoit des sanctions pour l'exercice illégal et l'usurpation de titre." },
-    { "section": "1.1", "recto": "Nommez les 5 acteurs du système professionnel québécois.", "verso": "1. Le gouvernement (ministre responsable de l'application des lois professionnelles)\n2. Le Tribunal des professions\n3. L'Office des professions du Québec\n4. Le Conseil interprofessionnel du Québec\n5. Les ordres professionnels" },
-    { "section": "1.1", "recto": "Comment le système professionnel québécois est-il lié à l'Assemblée nationale ?", "verso": "Par l'intermédiaire d'institutions chargées de faire appliquer les lois et les règlements encadrant les professions (gouvernement → Office → ordres)." },
-    { "section": "1.1", "recto": "Quel est le rôle du gouvernement auprès des ordres professionnels ?", "verso": "Un rôle de surveillance et de contrôle :\n• approuve certains règlements des ordres (ex. : le Code de déontologie des ingénieurs);\n• adopte ou modifie certains règlements à la place d'un ordre;\n• peut placer sous tutelle tout ordre professionnel." },
-    { "section": "1.1", "recto": "Qui détermine les diplômes donnant ouverture à un permis ou à un certificat de spécialiste, et comment ?", "verso": "Le gouvernement, par règlement, à la suite de consultations auprès de l'Office des professions et de l'ordre professionnel concerné." },
-    { "section": "1.1", "recto": "Quel est le rôle du ou de la ministre responsable de l'application des lois professionnelles ?", "verso": "Veiller à l'encadrement législatif, incluant l'application du Code des professions et des diverses lois constituant les ordres professionnels. Il ou elle reçoit et dépose annuellement les rapports d'activités devant l'Assemblée nationale." },
-    { "section": "1.1", "recto": "À qui revient l'application des dispositions du Code des professions relatives au Tribunal des professions ?", "verso": "Au ou à la ministre de la Justice (et non au ministre responsable des lois professionnelles)." },
-    { "section": "1.1", "recto": "À qui les ordres professionnels soumettent-ils leur rapport d'activités, et que contient-il notamment ?", "verso": "Au ou à la ministre responsable et à l'Office des professions. Il inclut notamment le nombre de permis délivrés durant la période et les états financiers." },
-    { "section": "1.1", "recto": "Qu'est-ce que le Tribunal des professions ?", "verso": "Une instance d'appel spécialisée en matière professionnelle, pour des questions disciplinaires mais aussi administratives.\n• Composé de 11 juges de la Cour du Québec.\n• Contribue au développement de la jurisprudence professionnelle au Québec." },
-    { "section": "1.1", "recto": "Quel est le mandat principal de l'Office des professions du Québec ?", "verso": "Veiller à ce que tous les ordres professionnels assurent la protection du public. Son approbation est nécessaire pour l'entrée en vigueur de plusieurs règlements des ordres." },
-    { "section": "1.1", "recto": "Quelles sont les 3 fonctions principales de l'Office des professions ?", "verso": "1. Fonction de surveillance\n2. Fonction juridique\n3. Fonction de conseil" },
-    { "section": "1.1", "recto": "Que comprend la fonction de surveillance de l'Office des professions ?", "verso": "• Examiner tout règlement ou loi qu'un ordre adopte.\n• Enquêter si un ordre est en situation financière déficitaire ou ne remplit pas ses devoirs.\n• Exiger d'un ordre des documents, rapports ou renseignements.\n• Exiger d'un ordre des mesures correctives, des suivis ou des mesures particulières." },
-    { "section": "1.1", "recto": "Que comprend la fonction juridique de l'Office des professions ?", "verso": "• Fournir, sur demande, un soutien technique aux ordres.\n• Suggérer des modifications au Code des professions et aux lois et règlements des ordres.\n• Adopter certains règlements concernant : les renseignements au tableau d'un ordre; les normes du rapport annuel; les normes d'éthique et de déontologie des administrateurs d'un ordre." },
-    { "section": "1.1", "recto": "Que comprend la fonction de conseil de l'Office des professions ?", "verso": "Formuler des recommandations en matière d'accès à la profession à un ministre, un organisme, un ordre professionnel ou un établissement d'enseignement." },
-    { "section": "1.1", "recto": "Comment est formé le Conseil interprofessionnel du Québec et auprès de qui joue-t-il un rôle-conseil ?", "verso": "Il est formé de l'ensemble des ordres professionnels, qui y délèguent chacun un représentant. Rôle-conseil auprès du gouvernement, du ministre responsable, de l'Office des professions et des ordres professionnels." },
-    { "section": "1.1", "recto": "Que peut notamment faire le Conseil interprofessionnel du Québec ?", "verso": "• Étudier les problèmes liés aux ordres professionnels.\n• Entendre un groupe désirant être reconnu comme ordre professionnel.\n• Inviter les groupes à trouver une solution à un problème commun.\n• Suggérer des modifications au Code des professions et à d'autres lois et règlements." },
-    { "section": "1.1", "recto": "Quelle est la mission d'un ordre professionnel ?", "verso": "Il existe, veille et agit essentiellement pour la protection du public. Le contrôle de l'exercice de la profession constitue une part importante de son rôle." },
-    { "section": "1.1", "recto": "Qu'est-ce que le principe d'autorégulation ?", "verso": "Le fonctionnement d'une organisation sans intervention extérieure. Le législateur a confié aux ordres la responsabilité de s'autogérer et de s'autodiscipliner." },
-    { "section": "1.1", "recto": "Définissez l'autogestion (ordres professionnels).", "verso": "La surveillance de l'exercice de la profession par l'ordre désigné. La qualité des services professionnels est évaluée par des personnes compétentes, en l'occurrence par des pairs." },
-    { "section": "1.1", "recto": "Définissez l'autodiscipline (ordres professionnels).", "verso": "Le consentement des membres d'un ordre à s'imposer des règles d'éthique communes et à les faire respecter, à favoriser le développement professionnel et à promouvoir la recherche de l'excellence professionnelle." },
-    { "section": "1.1", "recto": "Quelles sont les 6 principales responsabilités d'un ordre professionnel ?", "verso": "1. Contrôler la compétence et l'intégrité de ses membres\n2. Surveiller l'exercice de la profession\n3. Gérer le processus disciplinaire\n4. Favoriser le développement de la profession\n5. Contrôler l'exercice illégal et l'usurpation de titre\n6. Produire un rapport annuel" },
-    { "section": "1.1", "recto": "Que n'a pas le droit de faire une personne qui n'est pas membre de l'OIQ (titre réservé) ?", "verso": "• Se prétendre ingénieur.e;\n• utiliser le titre d'ingénieur ou ingénieure, avec ou sans qualificatif;\n• utiliser l'abréviation « ing. »." },
-    { "section": "1.1", "recto": "Qu'est-ce qu'une activité réservée, et à quelle condition une activité l'est-elle ?", "verso": "Une activité qui ne peut être réalisée que par les membres d'un ordre professionnel spécifique. Une activité n'est réservée que si la loi le prévoit." },
-    { "section": "1.1", "recto": "Qu'est-ce qu'une activité réservée « partagée » ?", "verso": "Une activité réservée que des membres d'ordres professionnels différents peuvent exercer." },
-    { "section": "1.1", "recto": "Qu'est-ce qu'une activité réservée « autorisée » ?", "verso": "Une activité normalement réservée aux membres d'un ordre, mais que d'autres personnes peuvent exercer en vertu d'un règlement de cet ordre." },
-    { "section": "1.1", "recto": "Quelle est la structure d'un ordre professionnel selon le Code des professions ?", "verso": "• Un conseil d'administration (surveillance générale, encadrement, supervision de la conduite des affaires);\n• des comités statutaires;\n• des comités créés par le CA." },
-    { "section": "1.1", "recto": "Comment est composé le conseil d'administration de l'OIQ ?", "verso": "• Un.e président.e\n• 11 administrateurs.trices élu.e.s par les membres\n• 4 administrateurs.trices nommé.e.s par l'Office des professions du Québec" },
-    { "section": "1.1", "recto": "Rôle du comité exécutif de l'OIQ ?", "verso": "Rend des décisions administratives concernant les membres et les candidat.e.s, et autorise les poursuites pénales en exercice illégal et en usurpation de titre." },
-    { "section": "1.1", "recto": "Rôle du comité d'audit de l'OIQ ?", "verso": "Soutient le CA dans ses responsabilités de surveillance de l'information financière, de gestion des finances, de contrôle et de gestion des risques." },
-    { "section": "1.1", "recto": "Rôle du comité d'enquête à l'éthique et à la déontologie de l'OIQ ?", "verso": "Enquête sur la conduite des administrateurs et administratrices et recommande, le cas échéant, la sanction à appliquer." },
-    { "section": "1.1", "recto": "Rôle du comité de gouvernance et d'éthique de l'OIQ ?", "verso": "Conseille le CA dans l'élaboration de principes et de politiques pour l'ensemble de l'organisation, afin de favoriser la bonne gouvernance et l'intégrité." },
-    { "section": "1.1", "recto": "Rôles du comité des ressources humaines et du comité de surveillance des élections de l'OIQ ?", "verso": "• Comité des RH : assiste le CA pour une gestion des ressources humaines efficace et mobilisatrice.\n• Comité de surveillance des élections : donne des avis et recommandations sur toute question concernant les élections au CA." },
-    { "section": "1.1", "recto": "Rôle du comité d'admission à l'exercice de l'OIQ ?", "verso": "Délivre les permis et évalue la formation des personnes formées à l'étranger." },
-    { "section": "1.1", "recto": "Rôle du comité d'accès à la profession de l'OIQ ?", "verso": "Évalue les candidat.e.s à la profession d'ingénieur (CPI)." },
-    { "section": "1.1", "recto": "Rôle du comité de la formation des ingénieurs ?", "verso": "Examine le contenu des programmes universitaires de premier cycle en génie." },
-    { "section": "1.1", "recto": "Rôle du comité de liaison CODIQ-OIQ-CRÉIQ ?", "verso": "Échange sur les meilleurs moyens d'accompagner les étudiant.e.s en génie dans leur cheminement vers l'obtention du permis d'exercice." },
-    { "section": "1.1", "recto": "Rôle du comité de développement professionnel de l'OIQ ?", "verso": "Émet des recommandations liées à la formation continue obligatoire des ingénieur.e.s." },
-    { "section": "1.1", "recto": "Rôle du comité d'inspection professionnelle (CIP) ?", "verso": "Surveille l'exercice de la profession par les membres et vérifie leur compétence professionnelle." },
-    { "section": "1.1", "recto": "Rôle du conseil d'arbitrage de l'OIQ ?", "verso": "Procède à l'arbitrage d'un compte d'honoraires d'ingénieur.e lorsque la conciliation n'a pas permis une entente entre les parties." },
-    { "section": "1.1", "recto": "Rôle du conseil de discipline de l'OIQ ?", "verso": "Prend une décision après l'audition d'une plainte formulée contre une personne, alors qu'elle était membre de l'Ordre, pour une infraction au Code des professions, à la Loi sur les ingénieurs, au Code de déontologie ou à un autre règlement de l'Ordre." },
-    { "section": "1.1", "recto": "Rôle du comité de révision de l'OIQ ?", "verso": "Rend un avis sur la décision d'un syndic de ne pas porter plainte contre un.e membre de l'Ordre." },
-    { "section": "1.1", "recto": "Rôles du comité d'assurance responsabilité professionnelle et du comité de sélection pour la valorisation de l'excellence ?", "verso": "• Assurance responsabilité professionnelle : formule des recommandations au CA en matière d'assurance responsabilité professionnelle.\n• Valorisation de l'excellence : évalue les candidatures aux prix décernés par l'Ordre." },
-    { "section": "1.1", "recto": "Que sont les groupes de travail de l'OIQ ? Donnez des exemples.", "verso": "Des membres qui exercent un leadership d'influence en partageant leur expertise. Ex. : Développement durable; Femmes et diversité en génie; Intelligence artificielle et technologies de rupture. Activité bénévole de soutien : Ambassadrices et ambassadeurs de la profession." },
-    { "section": "1.1", "recto": "Quels sont les 5 mécanismes de contrôle de l'exercice de la profession de l'OIQ ?", "verso": "1. Accès à la profession (admission)\n2. Surveillance de l'exercice\n3. Contrôle disciplinaire\n4. Développement professionnel\n5. Surveillance de la pratique illégale\n(Fondement : la protection du public)" },
-    { "section": "1.1", "recto": "Que comprend le mécanisme « Accès à la profession (admission) » ?", "verso": "• Reconnaissance des équivalences de diplômes et de formation\n• Gestion du programme d'accès à la profession\n• Intégration des connaissances et développement des compétences\n• Délivrance des permis" },
-    { "section": "1.1", "recto": "Que comprend le mécanisme « Surveillance de l'exercice » ?", "verso": "Des activités d'inspection et d'amélioration de la pratique et des compétences des membres, et l'imposition, si nécessaire, de mesures pour corriger les lacunes observées." },
-    { "section": "1.1", "recto": "En quoi consiste le contrôle disciplinaire ? Qui enquête, qui sanctionne ?", "verso": "Un mécanisme d'enquête (par les syndics) et de sanction (par le conseil de discipline, en première instance) des infractions aux lois et principaux règlements, notamment le Code des professions et le Code de déontologie des ingénieurs." },
-    { "section": "1.1", "recto": "Que comprennent les mécanismes « Développement professionnel » et « Surveillance de la pratique illégale » ?", "verso": "• Développement professionnel : normes de formation continue imposées aux membres et contrôle de conformité.\n• Pratique illégale : s'assurer que seules les personnes habilitées exercent les activités réservées et portent le titre d'ingénieur.e ou « ing. »." },
-    { "section": "1.1", "recto": "Que dit le Code de déontologie des ingénieurs sur les obligations envers l'homme ?", "verso": "« Dans tous les aspects de son travail, l'ingénieur doit respecter ses obligations envers l'homme et tenir compte des conséquences de l'exécution de ses travaux sur l'environnement et sur la vie, la santé et la propriété de toute personne. »" },
-    { "section": "1.1", "recto": "Quelles sont les 5 principales obligations administratives de l'ingénieur.e ?", "verso": "1. Payer annuellement sa cotisation professionnelle\n2. Avoir une couverture d'assurance responsabilité professionnelle adéquate\n3. Suivre et déclarer ses activités de formation\n4. Signaler une usurpation du titre\n5. Déclarer ses condamnations pénales et disciplinaires" },
-    { "section": "1.1", "recto": "Comment l'ingénieur.e participe-t-il à la gouvernance de l'Ordre ? (exemples)", "verso": "C'est un devoir prévu au Code des professions. Exemples :\n• nommer les vérificateurs des livres et comptes;\n• approuver la rémunération des administrateurs élus;\n• contribuer à des consultations sur la profession." },
-    { "section": "1.1", "recto": "Quelles sont les 4 manifestations de l'engagement social de l'ingénieur.e ?", "verso": "1. Partager ses connaissances et son expérience (conseiller, superviseur de CPI)\n2. Exercer un leadership positif\n3. Mettre ses compétences au service de la société (expert dans les débats publics, la recherche)\n4. Agir selon les règles du développement durable (agir en citoyen responsable)" },
-    { "section": "1.1", "recto": "Quelle est la définition du développement durable selon le Rapport Brundtland ?", "verso": "« Un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs. »\n(Rapport « Notre avenir à tous », 1987, Commission mondiale sur l'environnement et le développement de l'ONU)" },
-    { "section": "1.1", "recto": "Depuis quand existe la Loi sur le développement durable du Québec et que fait-elle ?", "verso": "Depuis 2004. Elle :\n• engage le gouvernement à adopter une stratégie globale de DD;\n• instaure des principes pour guider l'administration publique;\n• s'applique à tous les secteurs (privés et publics) par l'entremise d'autres lois qui en découlent." },
-    { "section": "1.1", "recto": "Sur quels 3 principes l'OIQ appuie-t-il ses interventions en développement durable ?", "verso": "1. Viser l'amélioration continue\n2. Miser sur la collaboration\n3. Soutenir l'innovation et la rigueur scientifique" },
-    { "section": "1.1", "recto": "Quelles sont les 3 dimensions du développement durable et leurs zones de recoupement ?", "verso": "Environnementale, sociale et économique.\n• Environnementale + sociale = Vivable\n• Environnementale + économique = Viable\n• Sociale + économique = Équitable\n• Les trois = Durable" },
-    { "section": "1.1", "recto": "Quel rôle jouent la gouvernance et la RSE en développement durable ?", "verso": "La gouvernance ou la responsabilité sociale des organisations et des entreprises (RSE) sont déterminantes pour assurer le succès et les retombées positives d'une démarche en développement durable." },
-    { "section": "1.1", "recto": "Que concerne la dimension économique du DD ? Nommez ses 4 principes d'exemple.", "verso": "La recherche de « l'efficience pour créer une économie innovante et prospère, écologiquement et socialement responsable ».\nPrincipes : efficacité économique (éco-efficience); internalisation des coûts; production et consommation responsables; pollueur-payeur." },
-    { "section": "1.1", "recto": "Définissez l'internalisation des coûts et le principe pollueur-payeur.", "verso": "• Internalisation des coûts : intégrer le coût global et réel de tous les impacts du projet (positifs ou négatifs) sur la société et l'environnement, tout au long de son cycle de vie.\n• Pollueur-payeur : ceux qui dégradent l'environnement assument la part des coûts de prévention, de réduction et de contrôle de leurs impacts." },
-    { "section": "1.1", "recto": "Définissez l'efficacité économique (éco-efficience).", "verso": "Optimiser les ressources pour produire à un coût minimum en évitant tout gaspillage et en consommant de manière écoresponsable." },
-    { "section": "1.1", "recto": "Que vise la dimension sociale du DD et quels sont ses 5 principes ?", "verso": "Assurer l'équité sociale (épanouissement des individus, essor des communautés, respect de la diversité).\n1. La santé et la qualité de vie\n2. L'équité et la solidarité sociales\n3. La participation et l'engagement\n4. L'accès au savoir\n5. La protection du patrimoine culturel" },
-    { "section": "1.1", "recto": "Quelles parties prenantes l'ingénieur doit-il considérer, et que recommande-t-on durant le projet ?", "verso": "Clients; employé.e.s (cadres et syndicats); groupes environnementaux; fournisseurs; communauté locale.\nDurant toutes les phases : poursuivre un dialogue soutenu et faire place à l'amélioration pour satisfaire les attentes." },
-    { "section": "1.1", "recto": "En quoi consiste la dimension environnementale du DD pour chaque projet ?", "verso": "Maintenir l'intégrité de l'environnement (santé et sécurité des communautés, ressources, écosystèmes) :\n• comprendre le contexte et les enjeux (local et mondial);\n• choisir site, procédé et matériaux minimisant les impacts;\n• réduire les répercussions de la solution choisie;\n• tenir compte des effets de l'environnement sur le projet." },
-    { "section": "1.1", "recto": "Quelles sont les phases du cycle de vie d'un procédé ou d'un produit ?", "verso": "Conception → extraction des matières premières → fabrication → distribution → utilisation → fin de vie → valorisation (qui reboucle vers la fabrication)." },
-    { "section": "1.1", "recto": "Quel est le côté positif des contraintes du développement durable ?", "verso": "Elles ouvrent la voie à des solutions d'ingénierie innovatrices, tant sur le plan technologique que sur les méthodes et processus employés." },
-    { "section": "1.1", "recto": "Qu'est-ce que l'économie circulaire ?", "verso": "Un système économique qui, à toutes les étapes du cycle de vie, vise à :\n• réduire, voire éliminer, la consommation de ressources naturelles;\n• favoriser une circulation en boucle des matières;\n• intensifier l'utilisation des produits;\n• allonger leur durée de vie.\n(Conception : repenser · Fin de vie : optimiser)" },
-    { "section": "1.1", "recto": "Que permet l'analyse de cycle de vie (ACV) ?", "verso": "• Évaluer et mesurer les répercussions d'un projet aux différents moments de son cycle de vie;\n• faire des choix éclairés (matériaux, structures, systèmes, pratiques de fabrication ou de construction);\n• recueillir les données pour développer des solutions durables." },
-    { "section": "1.1", "recto": "Qu'est-ce que l'éco-conception et que sont les 3RV ?", "verso": "Une approche méthodique qui prend en considération les aspects environnementaux de la conception pour réduire les impacts négatifs tout au long du cycle de vie d'un produit.\n3RV : Réduction à la source, Réemploi, Recyclage, Valorisation." },
-
-    { "section": "1.2", "recto": "Qui est responsable du développement des compétences professionnelles de l'ingénieur ?", "verso": "L'ingénieur lui-même. L'Ordre l'accompagne en proposant des outils adaptés et des formations pertinentes." },
-    { "section": "1.2", "recto": "Pourquoi existe le Règlement sur la formation continue obligatoire des ingénieurs ?", "verso": "Il se justifie par l'évolution rapide et constante des compétences requises. Il permet à l'Ordre d'encadrer le développement des compétences de ses membres et de contrôler l'exercice de la profession." },
-    { "section": "1.2", "recto": "Qu'attend le législateur de l'Ordre en matière de développement professionnel ?", "verso": "Que l'Ordre s'applique à promouvoir, à soutenir et à contrôler le développement professionnel de ses membres (pour la protection du public)." },
-    { "section": "1.2", "recto": "Pourquoi l'ingénieur a-t-il une responsabilité de formation, et que lui impose le Code de déontologie ?", "verso": "En raison de son statut professionnel et du monopole qu'il détient sur certaines activités. Il doit notamment :\n• agir avec compétence;\n• favoriser les mesures d'éducation et d'information;\n• contribuer au développement de la profession." },
-    { "section": "1.2", "recto": "Quelles sont les 10 activités admissibles selon le Règlement sur la formation continue obligatoire ?", "verso": "1. Préparation d'un plan de développement professionnel\n2. Activités d'autoapprentissage\n3. Formateur (animateur/conférencier/modérateur)\n4. Communauté de pratique et comité technique\n5. Séminaires\n6. Rédaction d'un article ou ouvrage publié\n7. Démarche structurée d'accompagnement individuel\n8. Ateliers\n9. Cours\n10. Conférences" },
-    { "section": "1.2", "recto": "Quelles sont les 4 étapes de la démarche réflexive du plan de développement professionnel ?", "verso": "1. Évaluation et analyse de la situation présente\n2. Détermination de la vision (objectif principal) et des objectifs d'apprentissage (sous-objectifs)\n3. Planification des activités de développement\n4. Mise en œuvre et suivi" },
-    { "section": "1.2", "recto": "Qu'est-ce qu'une activité d'autoapprentissage ? Exemples ?", "verso": "Une activité réalisée seul, sans formateur ni professeur et sans contrôle indépendant des dates et de la durée.\nEx. : lecture d'articles ou d'ouvrages spécialisés, exercices techniques, visionnement de conférences vidéo/Web, cours sur DVD, tutoriels." },
-    { "section": "1.2", "recto": "À quelles conditions l'activité de formateur (animateur/conférencier/modérateur) est-elle admissible ?", "verso": "Seulement lorsqu'elle est présentée une première fois, ou après que des modifications ont été apportées à au moins 50 % du contenu. Elle doit permettre d'acquérir de nouvelles connaissances (la préparation = recherche, analyse, rédaction d'un plan)." },
-    { "section": "1.2", "recto": "Définissez une communauté de pratique et un comité technique.", "verso": "• Communauté de pratique : groupe qui se rassemble pour discuter et apprendre les uns des autres (face à face ou virtuellement), structuré en objectifs, contenu et déroulement.\n• Comité technique : personnes aux compétences spécifiques partageant une préoccupation technique commune, réunies dans une démarche structurée pour améliorer leur exercice professionnel." },
-    { "section": "1.2", "recto": "Qu'est-ce qu'un séminaire (formation continue) ?", "verso": "Une réunion à caractère scientifique (en salle ou en ligne), avec un groupe restreint, généralement animée par un professeur, un chercheur ou un spécialiste, visant à faire le point sur l'état des connaissances. Doit être structurée (objectifs, contenu, déroulement)." },
-    { "section": "1.2", "recto": "À quelle condition la rédaction d'un article ou d'un ouvrage est-elle admissible ?", "verso": "Dans la mesure où il est publié. Il doit présenter un contenu élaboré pour contribuer au développement des connaissances pertinentes à la profession." },
-    { "section": "1.2", "recto": "Qu'est-ce qu'une démarche structurée d'accompagnement individuel ?", "verso": "Une démarche où un accompagnateur soutient le développement professionnel d'un apprenant (transmettre des connaissances, développer habiletés ou attitudes). Ex. : mentorat, coaching, parrainage en rencontres structurées." },
-    { "section": "1.2", "recto": "Définissez un atelier (formation continue).", "verso": "Activité (en salle ou en ligne) réunissant plusieurs personnes pour discuter ou approfondir une matière dans une perspective d'apprentissage, dirigée par un animateur ou modérateur et structurée. Ex. : rencontre ponctuelle, accompagnement collectif, mentorat, coaching, parrainage." },
-    { "section": "1.2", "recto": "Définissez un cours (formation continue) et donnez des exemples.", "verso": "Activité individuelle ou collective structurée par un plan de cours (objectifs, contenu, durée, moyens pédagogiques).\nEx. : cours universitaires ou collégiaux crédités, cours non crédités, études personnelles en vue d'un examen de certification." },
-    { "section": "1.2", "recto": "Quelle exigence particulière doit respecter une conférence pour être admissible ?", "verso": "Être structurée (objectifs et contenu) et prévoir au moins une période de questions. Ex. : présentation orale, visite industrielle." },
-    { "section": "1.2", "recto": "Où trouve-t-on le tableau synthèse des activités de formation continue ?", "verso": "Dans le Guide d'application du règlement sur la formation continue obligatoire des ingénieurs (p. 16) : activités admissibles, calcul des heures et pièces justificatives requises." },
-    { "section": "1.2", "recto": "Quelles activités sont non admissibles en formation continue, et pourquoi ?", "verso": "• Présentations techniques de vente : objectif d'abord de mise en marché d'un produit ou service.\n• Activités dans le cadre du travail (ex. réunions) : objectif d'abord lié à la conduite d'un projet ou aux opérations." },
-    { "section": "1.2", "recto": "Quelle doit être la finalité du contenu d'une activité de formation continue ? Sur quoi peut-il porter ?", "verso": "Développer, maintenir ou améliorer des compétences pertinentes à l'exercice de la profession. Il peut porter sur les aspects techniques ou sur d'autres aspects : droit, gestion, éthique, communications." },
-    { "section": "1.2", "recto": "Quels sont les 6 critères d'admissibilité d'une formation ?", "verso": "1. Type reconnu comme activité admissible\n2. Contenu lié aux compétences pertinentes de la profession\n3. En lien avec les activités professionnelles actuelles ou futures du membre\n4. Structurée (objectifs d'apprentissage et contenu)\n5. Durée minimale de 30 minutes\n6. Réussie ou, faute d'évaluation, suivie" },
-    { "section": "1.2", "recto": "Quelle est l'obligation de formation continue (article 1 du Règlement) ?", "verso": "Cumuler au moins 30 heures de formation continue au cours d'une période de référence de 2 ans (à moins d'en être dispensé selon la section IV)." },
-    { "section": "1.2", "recto": "Quelle est la date limite de la déclaration de formation continue (article 7) ?", "verso": "Au plus tard le 15 avril qui suit la fin de chaque période de référence, sur le formulaire prévu (dans le portail des membres)." },
-    { "section": "1.2", "recto": "Combien de temps conserver les pièces justificatives de formation continue (article 8) ?", "verso": "Pendant 2 ans suivant la fin de la période de référence à laquelle elles se rapportent." },
-    { "section": "1.2", "recto": "Qu'est-ce que l'obligation particulière de formation continue (article 5) ?", "verso": "Le Conseil d'administration peut imposer à tous les ingénieurs ou à certains d'entre eux une activité particulière ou des activités sur un sujet déterminé (ex. : déontologie), notamment en raison d'une réforme législative ou réglementaire, d'un changement ou de lacunes dans l'exercice de la profession." },
-    { "section": "1.2", "recto": "Sur quelle base l'Ordre reconnaît-il la réussite d'une activité de formation continue ?", "verso": "• Le résultat d'une évaluation, ou\n• la participation à l'activité.\nL'Ordre peut exiger tout document ou renseignement pour vérifier la conformité." },
-    { "section": "1.2", "recto": "Quel est le délai pour demander la révision d'un refus de reconnaissance d'une activité (article 10) ?", "verso": "15 jours à compter de la réception de la décision (rendue en application de l'article 9)." },
-    { "section": "1.2", "recto": "Quelles sont les sanctions en cas de défaut de formation continue (article 16) ?", "verso": "• Radiation du tableau de l'Ordre si le défaut n'est pas corrigé dans les délais.\n• Limitation du droit d'exercice pour l'ingénieur qui ne suit pas une formation imposée en raison de la nature de ses activités." },
-    { "section": "1.2", "recto": "Que contient l'avis transmis avant une radiation ou limitation pour défaut de formation continue ?", "verso": "La nature du défaut et un délai de 90 jours à compter de sa réception pour remédier à la situation." },
-    { "section": "1.2", "recto": "Quand une sanction pour défaut de formation continue est-elle levée ?", "verso": "Elle demeure en vigueur jusqu'à ce que la personne fournisse la preuve qu'elle a remédié à son défaut et que la sanction soit levée par le Conseil d'administration (art. 16)." },
-    { "section": "1.2", "recto": "Qu'est-ce que la compétence professionnelle selon l'OIQ ?", "verso": "Accomplir les actes professionnels conformément aux exigences en vigueur. Elle se traduit par :\n• les connaissances (le savoir);\n• les habiletés (le savoir-faire);\n• les aptitudes (le savoir-être)." },
-    { "section": "1.2", "recto": "Comment est constitué le cadre de référence des compétences de l'ingénieur ?", "verso": "10 champs de compétences :\n• 4 champs de compétences transversales;\n• 6 champs plus techniques organisés selon le cycle de vie du projet d'ingénierie.\nChaque champ → compétences → éléments de compétence." },
-    { "section": "1.2", "recto": "Quels sont les 4 champs de compétences transversales ?", "verso": "1. Agir professionnellement\n2. Démontrer ses aptitudes personnelles\n3. Communiquer efficacement\n4. Gérer ses projets et ses équipes" },
-    { "section": "1.2", "recto": "Quels sont les 6 champs de compétences techniques (dans l'ordre du cycle de vie du projet) ?", "verso": "1. Établir le mandat\n2. Rechercher les informations et données pertinentes\n3. Déterminer la solution\n4. Concevoir la solution\n5. Surveiller la mise en œuvre de la solution\n6. Soutenir l'exploitation" },
-    { "section": "1.2", "recto": "Quelles sont les compétences du champ « Agir professionnellement » ?", "verso": "A. Prioriser la protection du public\nB. Respecter ses obligations déontologiques\nC. Exploiter les informations et les outils de sa pratique\nD. Gérer son développement professionnel\nE. Participer au développement de sa profession" },
-    { "section": "1.2", "recto": "Quels sont les éléments de la compétence « Respecter ses obligations déontologiques » ?", "verso": "1. Se conformer aux règles de l'art (lois, codes, règlements, normes)\n2. Reconnaître les limites de ses compétences et de ses moyens\n3. Signaler l'incompétence et les comportements non conformes des ingénieurs\n4. Prévenir les conflits de loyauté et autres situations problématiques\n5. Résoudre les dilemmes éthiques" },
-    { "section": "1.2", "recto": "Quelles sont les compétences des champs « Démontrer ses aptitudes personnelles » et « Communiquer efficacement » ?", "verso": "Aptitudes personnelles : faire preuve de jugement, de rigueur, d'esprit d'analyse, de créativité et de débrouillardise.\nCommuniquer : communiquer verbalement et par écrit; maintenir des relations saines et efficaces; travailler en équipe." },
-    { "section": "1.2", "recto": "Quelles sont les compétences des champs « Gérer ses projets et ses équipes » et « Établir le mandat » ?", "verso": "Gérer : gérer les mandats et les projets; superviser les équipes.\nÉtablir le mandat : définir les besoins et les attentes; préciser l'encadrement légal, réglementaire et normatif; convenir du mandat." },
-    { "section": "1.2", "recto": "Quelles sont les compétences du champ « Rechercher les informations et données pertinentes » ?", "verso": "A. Établir les paramètres d'analyse\nB. Recueillir les faits\nC. Déterminer les sources potentielles de danger et les risques\nD. Consulter la documentation existante et les intervenants\nE. Considérer les meilleures pratiques et les usages\nF. Détailler les contraintes, les limites et les opportunités" },
-    { "section": "1.2", "recto": "Quelles sont les compétences des champs « Déterminer la solution » et « Concevoir la solution » ?", "verso": "Déterminer : évaluer les solutions; traiter les risques techniques; recommander une solution.\nConcevoir : traiter les données; intégrer les composants; prévoir les impacts sur la réalisation des travaux; prévoir les exigences d'exploitation; valider la conception; produire les documents d'ingénierie." },
-    { "section": "1.2", "recto": "Quelles sont les compétences des champs « Surveiller la mise en œuvre » et « Soutenir l'exploitation » ?", "verso": "Surveiller : planifier, effectuer et terminer la surveillance; mettre en service.\nSoutenir l'exploitation : superviser; entretenir; attester la conformité; gérer les risques en continu; désaffecter et démanteler." },
-    { "section": "1.2", "recto": "Que sont les profils de compétences et quelles questions permettent-ils de se poser ?", "verso": "Des listes de compétences détaillées développées selon le cadre de référence pour certains domaines de pratique jugés à risque (voir le Guide de pratique professionnelle). Questions :\n• Mes actes d'ingénierie sont-ils conformes?\n• Ma pratique professionnelle est-elle adéquate?" },
-    { "section": "1.2", "recto": "Quelles sont les 3 étapes du cycle annuel de gestion du développement des compétences ?", "verso": "1. Planifier le développement de ses compétences\n2. Effectuer le suivi de son plan\n3. Faire le bilan de ses activités" },
-    { "section": "1.2", "recto": "Quelles sont les 3 actions de l'étape « Planifier le développement de ses compétences » ?", "verso": "A. Évaluer la situation actuelle\nB. Établir les objectifs annuels\nC. Planifier les activités" },
-    { "section": "1.2", "recto": "Quelles 2 questions se poser pour définir les compétences à développer ?", "verso": "Dans le cadre de mes activités professionnelles actuelles, puis futures : quelles compétences je souhaite mettre à jour, améliorer, approfondir ou développer?" },
-    { "section": "1.2", "recto": "Quels 3 aspects considérer pour évaluer sa situation actuelle ?", "verso": "• Performance professionnelle (sécurité, qualité, échéancier, coûts)\n• Environnement professionnel (changements de code, norme, équipement, matériaux, responsabilités)\n• Objectifs de carrière (projets, responsabilités, secteurs visés)" },
-    { "section": "1.2", "recto": "Quels outils de l'Ordre aident à évaluer sa situation actuelle ?", "verso": "Le cadre de référence, les profils de compétences et le Guide d'accompagnement pour préparer le plan de développement professionnel." },
-    { "section": "1.2", "recto": "Combien de compétences retenir par période de référence, et comment établir les priorités ?", "verso": "De deux à trois compétences. Classer les compétences par priorité, privilégier celles liées à l'emploi actuel et aux objectifs de carrière, sans nuire à la qualité du travail." },
-    { "section": "1.2", "recto": "Où recueillir l'information préliminaire sur les compétences à développer ?", "verso": "Auprès de collègues qui possèdent la compétence; les écoles, facultés de génie et associations techniques peuvent aider à trouver des personnes-ressources. Pour les attitudes : une personne qui les possède ou des services d'accompagnement professionnel." },
-    { "section": "1.2", "recto": "De quels 3 éléments se compose un objectif de développement de compétences ?", "verso": "1. La connaissance requise\n2. Le niveau d'habileté qui s'y rapporte\n3. Les conditions d'application de la compétence" },
-    { "section": "1.2", "recto": "Que signifie SMART pour un objectif de développement ?", "verso": "Spécifique · Mesurable · Atteignable · Réaliste · Temporellement défini (date)" },
-    { "section": "1.2", "recto": "Quels 2 types d'activités rechercher lors de la planification ?", "verso": "1. Activités de développement des compétences (cours, rédaction/publication, mentorat, communautés de pratique, conférences, préparation d'un cours…)\n2. Activités de transfert des apprentissages en situation de travail (appliquer au travail les compétences récemment acquises)" },
-    { "section": "1.2", "recto": "Qu'est-ce que le Plan de développement professionnel et combien d'heures vaut sa préparation ?", "verso": "Les activités retenues consignées dans le dossier de développement professionnel avec leurs dates prévues. Sa préparation est admissible jusqu'à un maximum d'une (1) heure de formation continue (art. 3)." },
-    { "section": "1.2", "recto": "Quel est le moyen à privilégier pour développer ses compétences ?", "verso": "L'expérience de travail, bonifiée par l'acquisition de connaissances de base et par la rétroaction en continu. Choisir dans les 3 catégories consolide, voire accélère, la progression." },
-    { "section": "1.2", "recto": "Parmi expérience de travail, rétroaction et acquisition de connaissances, quelles activités sont admissibles en formation continue ?", "verso": "• Rétroaction : coaching et groupe de co-développement\n• Acquisition de connaissances : formations, lectures, conférences\n(Toute activité visant principalement l'acquisition de connaissances, en lien avec la pratique, est admissible. L'expérience de travail elle-même ne l'est pas.)" },
-    { "section": "1.2", "recto": "Quelles sont les 4 étapes pour faire approuver son plan de développement ?", "verso": "1. Présenter le plan à un supérieur\n2. Explorer un aménagement de la charge de travail\n3. Discuter de projets ou mandats pour appliquer rapidement les compétences\n4. Ajuster le plan au besoin" },
-    { "section": "1.2", "recto": "Que recommande-t-on pour le suivi du plan ? Que doivent indiquer les pièces justificatives ?", "verso": "Inscrire dates de réalisation et heures; conserver les pièces justificatives; déclarer l'heure de préparation du plan.\nLes pièces indiquent : type d'activité, durée, dates, contenu, fournisseur et, le cas échéant, attestation de présence ou résultat." },
-    { "section": "1.2", "recto": "À quoi sert le bilan de ses activités et quelles questions se poser ?", "verso": "À évaluer l'impact sur sa pratique et sur ses prochains objectifs (étape souvent négligée, assure la cohérence).\n• Pratique : pertinence? méthodes améliorées? nouvelles tâches?\n• Objectifs : la situation d'origine est-elle corrigée? maintenir l'objectif ou en adopter un nouveau?" },
-    { "section": "1.2", "recto": "Quels sont les 4 conseils pour le plan de développement des compétences ?", "verso": "1. Objectifs : les revoir pour s'adapter à une nouvelle situation\n2. Priorités : les établir quand la charge de travail est importante\n3. Réalisation : appliquer au travail ce qui a été appris\n4. Consultation : demander de la rétroaction au supérieur, aux collègues, aux clients" }
+    {
+      "section": "1.1",
+      "recto": "Autour de quel axe fondamental s'articule le système professionnel québécois ?",
+      "verso": "La protection du public."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quels sont les 5 principes de base sur lesquels s'appuie le système professionnel québécois ?",
+      "verso": "1. L'autogestion\n2. La déontologie\n3. La compétence\n4. La responsabilité professionnelle\n5. Le jugement par les pairs"
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce que le Code des professions ?",
+      "verso": "La loi-cadre du système professionnel, mise en place par le législateur. Elle :\n• vise à encadrer la prestation de services professionnels afin de protéger le public;\n• précise le mandat, les responsabilités, la structure et le fonctionnement des acteurs du système;\n• définit les responsabilités et devoirs des ordres et de leurs membres (contrôle de l'exercice);\n• prévoit des sanctions pour l'exercice illégal et l'usurpation de titre."
+    },
+    {
+      "section": "1.1",
+      "recto": "Nommez les 5 acteurs du système professionnel québécois.",
+      "verso": "1. Le gouvernement (ministre responsable de l'application des lois professionnelles)\n2. Le Tribunal des professions\n3. L'Office des professions du Québec\n4. Le Conseil interprofessionnel du Québec\n5. Les ordres professionnels"
+    },
+    {
+      "section": "1.1",
+      "recto": "Comment le système professionnel québécois est-il lié à l'Assemblée nationale ?",
+      "verso": "Par l'intermédiaire d'institutions chargées de faire appliquer les lois et les règlements encadrant les professions (gouvernement → Office → ordres)."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quel est le rôle du gouvernement auprès des ordres professionnels ?",
+      "verso": "Un rôle de surveillance et de contrôle :\n• approuve certains règlements des ordres (ex. : le Code de déontologie des ingénieurs);\n• adopte ou modifie certains règlements à la place d'un ordre;\n• peut placer sous tutelle tout ordre professionnel."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qui détermine les diplômes donnant ouverture à un permis ou à un certificat de spécialiste, et comment ?",
+      "verso": "Le gouvernement, par règlement, à la suite de consultations auprès de l'Office des professions et de l'ordre professionnel concerné."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quel est le rôle du ou de la ministre responsable de l'application des lois professionnelles ?",
+      "verso": "Veiller à l'encadrement législatif, incluant l'application du Code des professions et des diverses lois constituant les ordres professionnels. Il ou elle reçoit et dépose annuellement les rapports d'activités devant l'Assemblée nationale."
+    },
+    {
+      "section": "1.1",
+      "recto": "À qui revient l'application des dispositions du Code des professions relatives au Tribunal des professions ?",
+      "verso": "Au ou à la ministre de la Justice (et non au ministre responsable des lois professionnelles)."
+    },
+    {
+      "section": "1.1",
+      "recto": "À qui les ordres professionnels soumettent-ils leur rapport d'activités, et que contient-il notamment ?",
+      "verso": "Au ou à la ministre responsable et à l'Office des professions. Il inclut notamment le nombre de permis délivrés durant la période et les états financiers."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce que le Tribunal des professions ?",
+      "verso": "Une instance d'appel spécialisée en matière professionnelle, pour des questions disciplinaires mais aussi administratives.\n• Composé de 11 juges de la Cour du Québec.\n• Contribue au développement de la jurisprudence professionnelle au Québec."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quel est le mandat principal de l'Office des professions du Québec ?",
+      "verso": "Veiller à ce que tous les ordres professionnels assurent la protection du public. Son approbation est nécessaire pour l'entrée en vigueur de plusieurs règlements des ordres."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelles sont les 3 fonctions principales de l'Office des professions ?",
+      "verso": "1. Fonction de surveillance\n2. Fonction juridique\n3. Fonction de conseil"
+    },
+    {
+      "section": "1.1",
+      "recto": "Que comprend la fonction de surveillance de l'Office des professions ?",
+      "verso": "• Examiner tout règlement ou loi qu'un ordre adopte.\n• Enquêter si un ordre est en situation financière déficitaire ou ne remplit pas ses devoirs.\n• Exiger d'un ordre des documents, rapports ou renseignements.\n• Exiger d'un ordre des mesures correctives, des suivis ou des mesures particulières."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que comprend la fonction juridique de l'Office des professions ?",
+      "verso": "• Fournir, sur demande, un soutien technique aux ordres.\n• Suggérer des modifications au Code des professions et aux lois et règlements des ordres.\n• Adopter certains règlements concernant : les renseignements au tableau d'un ordre; les normes du rapport annuel; les normes d'éthique et de déontologie des administrateurs d'un ordre."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que comprend la fonction de conseil de l'Office des professions ?",
+      "verso": "Formuler des recommandations en matière d'accès à la profession à un ministre, un organisme, un ordre professionnel ou un établissement d'enseignement."
+    },
+    {
+      "section": "1.1",
+      "recto": "Comment est formé le Conseil interprofessionnel du Québec et auprès de qui joue-t-il un rôle-conseil ?",
+      "verso": "Il est formé de l'ensemble des ordres professionnels, qui y délèguent chacun un représentant. Rôle-conseil auprès du gouvernement, du ministre responsable, de l'Office des professions et des ordres professionnels."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que peut notamment faire le Conseil interprofessionnel du Québec ?",
+      "verso": "• Étudier les problèmes liés aux ordres professionnels.\n• Entendre un groupe désirant être reconnu comme ordre professionnel.\n• Inviter les groupes à trouver une solution à un problème commun.\n• Suggérer des modifications au Code des professions et à d'autres lois et règlements."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelle est la mission d'un ordre professionnel ?",
+      "verso": "Il existe, veille et agit essentiellement pour la protection du public. Le contrôle de l'exercice de la profession constitue une part importante de son rôle."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce que le principe d'autorégulation ?",
+      "verso": "Le fonctionnement d'une organisation sans intervention extérieure. Le législateur a confié aux ordres la responsabilité de s'autogérer et de s'autodiscipliner."
+    },
+    {
+      "section": "1.1",
+      "recto": "Définissez l'autogestion (ordres professionnels).",
+      "verso": "La surveillance de l'exercice de la profession par l'ordre désigné. La qualité des services professionnels est évaluée par des personnes compétentes, en l'occurrence par des pairs."
+    },
+    {
+      "section": "1.1",
+      "recto": "Définissez l'autodiscipline (ordres professionnels).",
+      "verso": "Le consentement des membres d'un ordre à s'imposer des règles d'éthique communes et à les faire respecter, à favoriser le développement professionnel et à promouvoir la recherche de l'excellence professionnelle."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelles sont les 6 principales responsabilités d'un ordre professionnel ?",
+      "verso": "1. Contrôler la compétence et l'intégrité de ses membres\n2. Surveiller l'exercice de la profession\n3. Gérer le processus disciplinaire\n4. Favoriser le développement de la profession\n5. Contrôler l'exercice illégal et l'usurpation de titre\n6. Produire un rapport annuel"
+    },
+    {
+      "section": "1.1",
+      "recto": "Que n'a pas le droit de faire une personne qui n'est pas membre de l'OIQ (titre réservé) ?",
+      "verso": "• Se prétendre ingénieur.e;\n• utiliser le titre d'ingénieur ou ingénieure, avec ou sans qualificatif;\n• utiliser l'abréviation « ing. »."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce qu'une activité réservée, et à quelle condition une activité l'est-elle ?",
+      "verso": "Une activité qui ne peut être réalisée que par les membres d'un ordre professionnel spécifique. Une activité n'est réservée que si la loi le prévoit."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce qu'une activité réservée « partagée » ?",
+      "verso": "Une activité réservée que des membres d'ordres professionnels différents peuvent exercer."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce qu'une activité réservée « autorisée » ?",
+      "verso": "Une activité normalement réservée aux membres d'un ordre, mais que d'autres personnes peuvent exercer en vertu d'un règlement de cet ordre."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelle est la structure d'un ordre professionnel selon le Code des professions ?",
+      "verso": "• Un conseil d'administration (surveillance générale, encadrement, supervision de la conduite des affaires);\n• des comités statutaires;\n• des comités créés par le CA."
+    },
+    {
+      "section": "1.1",
+      "recto": "Comment est composé le conseil d'administration de l'OIQ ?",
+      "verso": "• Un.e président.e\n• 11 administrateurs.trices élu.e.s par les membres\n• 4 administrateurs.trices nommé.e.s par l'Office des professions du Québec"
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité exécutif de l'OIQ ?",
+      "verso": "Rend des décisions administratives concernant les membres et les candidat.e.s, et autorise les poursuites pénales en exercice illégal et en usurpation de titre."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité d'audit de l'OIQ ?",
+      "verso": "Soutient le CA dans ses responsabilités de surveillance de l'information financière, de gestion des finances, de contrôle et de gestion des risques."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité d'enquête à l'éthique et à la déontologie de l'OIQ ?",
+      "verso": "Enquête sur la conduite des administrateurs et administratrices et recommande, le cas échéant, la sanction à appliquer."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité de gouvernance et d'éthique de l'OIQ ?",
+      "verso": "Conseille le CA dans l'élaboration de principes et de politiques pour l'ensemble de l'organisation, afin de favoriser la bonne gouvernance et l'intégrité."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôles du comité des ressources humaines et du comité de surveillance des élections de l'OIQ ?",
+      "verso": "• Comité des RH : assiste le CA pour une gestion des ressources humaines efficace et mobilisatrice.\n• Comité de surveillance des élections : donne des avis et recommandations sur toute question concernant les élections au CA."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité d'admission à l'exercice de l'OIQ ?",
+      "verso": "Délivre les permis et évalue la formation des personnes formées à l'étranger."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité d'accès à la profession de l'OIQ ?",
+      "verso": "Évalue les candidat.e.s à la profession d'ingénieur (CPI)."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité de la formation des ingénieurs ?",
+      "verso": "Examine le contenu des programmes universitaires de premier cycle en génie."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité de liaison CODIQ-OIQ-CRÉIQ ?",
+      "verso": "Échange sur les meilleurs moyens d'accompagner les étudiant.e.s en génie dans leur cheminement vers l'obtention du permis d'exercice."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité de développement professionnel de l'OIQ ?",
+      "verso": "Émet des recommandations liées à la formation continue obligatoire des ingénieur.e.s."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité d'inspection professionnelle (CIP) ?",
+      "verso": "Surveille l'exercice de la profession par les membres et vérifie leur compétence professionnelle."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du conseil d'arbitrage de l'OIQ ?",
+      "verso": "Procède à l'arbitrage d'un compte d'honoraires d'ingénieur.e lorsque la conciliation n'a pas permis une entente entre les parties."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du conseil de discipline de l'OIQ ?",
+      "verso": "Prend une décision après l'audition d'une plainte formulée contre une personne, alors qu'elle était membre de l'Ordre, pour une infraction au Code des professions, à la Loi sur les ingénieurs, au Code de déontologie ou à un autre règlement de l'Ordre."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôle du comité de révision de l'OIQ ?",
+      "verso": "Rend un avis sur la décision d'un syndic de ne pas porter plainte contre un.e membre de l'Ordre."
+    },
+    {
+      "section": "1.1",
+      "recto": "Rôles du comité d'assurance responsabilité professionnelle et du comité de sélection pour la valorisation de l'excellence ?",
+      "verso": "• Assurance responsabilité professionnelle : formule des recommandations au CA en matière d'assurance responsabilité professionnelle.\n• Valorisation de l'excellence : évalue les candidatures aux prix décernés par l'Ordre."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que sont les groupes de travail de l'OIQ ? Donnez des exemples.",
+      "verso": "Des membres qui exercent un leadership d'influence en partageant leur expertise. Ex. : Développement durable; Femmes et diversité en génie; Intelligence artificielle et technologies de rupture. Activité bénévole de soutien : Ambassadrices et ambassadeurs de la profession."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quels sont les 5 mécanismes de contrôle de l'exercice de la profession de l'OIQ ?",
+      "verso": "1. Accès à la profession (admission)\n2. Surveillance de l'exercice\n3. Contrôle disciplinaire\n4. Développement professionnel\n5. Surveillance de la pratique illégale\n(Fondement : la protection du public)"
+    },
+    {
+      "section": "1.1",
+      "recto": "Que comprend le mécanisme « Accès à la profession (admission) » ?",
+      "verso": "• Reconnaissance des équivalences de diplômes et de formation\n• Gestion du programme d'accès à la profession\n• Intégration des connaissances et développement des compétences\n• Délivrance des permis"
+    },
+    {
+      "section": "1.1",
+      "recto": "Que comprend le mécanisme « Surveillance de l'exercice » ?",
+      "verso": "Des activités d'inspection et d'amélioration de la pratique et des compétences des membres, et l'imposition, si nécessaire, de mesures pour corriger les lacunes observées."
+    },
+    {
+      "section": "1.1",
+      "recto": "En quoi consiste le contrôle disciplinaire ? Qui enquête, qui sanctionne ?",
+      "verso": "Un mécanisme d'enquête (par les syndics) et de sanction (par le conseil de discipline, en première instance) des infractions aux lois et principaux règlements, notamment le Code des professions et le Code de déontologie des ingénieurs."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que comprennent les mécanismes « Développement professionnel » et « Surveillance de la pratique illégale » ?",
+      "verso": "• Développement professionnel : normes de formation continue imposées aux membres et contrôle de conformité.\n• Pratique illégale : s'assurer que seules les personnes habilitées exercent les activités réservées et portent le titre d'ingénieur.e ou « ing. »."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que dit le Code de déontologie des ingénieurs sur les obligations envers l'homme ?",
+      "verso": "« Dans tous les aspects de son travail, l'ingénieur doit respecter ses obligations envers l'homme et tenir compte des conséquences de l'exécution de ses travaux sur l'environnement et sur la vie, la santé et la propriété de toute personne. »"
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelles sont les 5 principales obligations administratives de l'ingénieur.e ?",
+      "verso": "1. Payer annuellement sa cotisation professionnelle\n2. Avoir une couverture d'assurance responsabilité professionnelle adéquate\n3. Suivre et déclarer ses activités de formation\n4. Signaler une usurpation du titre\n5. Déclarer ses condamnations pénales et disciplinaires"
+    },
+    {
+      "section": "1.1",
+      "recto": "Comment l'ingénieur.e participe-t-il à la gouvernance de l'Ordre ? (exemples)",
+      "verso": "C'est un devoir prévu au Code des professions. Exemples :\n• nommer les vérificateurs des livres et comptes;\n• approuver la rémunération des administrateurs élus;\n• contribuer à des consultations sur la profession."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelles sont les 4 manifestations de l'engagement social de l'ingénieur.e ?",
+      "verso": "1. Partager ses connaissances et son expérience (conseiller, superviseur de CPI)\n2. Exercer un leadership positif\n3. Mettre ses compétences au service de la société (expert dans les débats publics, la recherche)\n4. Agir selon les règles du développement durable (agir en citoyen responsable)"
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelle est la définition du développement durable selon le Rapport Brundtland ?",
+      "verso": "« Un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs. »\n(Rapport « Notre avenir à tous », 1987, Commission mondiale sur l'environnement et le développement de l'ONU)"
+    },
+    {
+      "section": "1.1",
+      "recto": "Depuis quand existe la Loi sur le développement durable du Québec et que fait-elle ?",
+      "verso": "Depuis 2004. Elle :\n• engage le gouvernement à adopter une stratégie globale de DD;\n• instaure des principes pour guider l'administration publique;\n• s'applique à tous les secteurs (privés et publics) par l'entremise d'autres lois qui en découlent."
+    },
+    {
+      "section": "1.1",
+      "recto": "Sur quels 3 principes l'OIQ appuie-t-il ses interventions en développement durable ?",
+      "verso": "1. Viser l'amélioration continue\n2. Miser sur la collaboration\n3. Soutenir l'innovation et la rigueur scientifique"
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelles sont les 3 dimensions du développement durable et leurs zones de recoupement ?",
+      "verso": "Environnementale, sociale et économique.\n• Environnementale + sociale = Vivable\n• Environnementale + économique = Viable\n• Sociale + économique = Équitable\n• Les trois = Durable"
+    },
+    {
+      "section": "1.1",
+      "recto": "Quel rôle jouent la gouvernance et la RSE en développement durable ?",
+      "verso": "La gouvernance ou la responsabilité sociale des organisations et des entreprises (RSE) sont déterminantes pour assurer le succès et les retombées positives d'une démarche en développement durable."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que concerne la dimension économique du DD ? Nommez ses 4 principes d'exemple.",
+      "verso": "La recherche de « l'efficience pour créer une économie innovante et prospère, écologiquement et socialement responsable ».\nPrincipes : efficacité économique (éco-efficience); internalisation des coûts; production et consommation responsables; pollueur-payeur."
+    },
+    {
+      "section": "1.1",
+      "recto": "Définissez l'internalisation des coûts et le principe pollueur-payeur.",
+      "verso": "• Internalisation des coûts : intégrer le coût global et réel de tous les impacts du projet (positifs ou négatifs) sur la société et l'environnement, tout au long de son cycle de vie.\n• Pollueur-payeur : ceux qui dégradent l'environnement assument la part des coûts de prévention, de réduction et de contrôle de leurs impacts."
+    },
+    {
+      "section": "1.1",
+      "recto": "Définissez l'efficacité économique (éco-efficience).",
+      "verso": "Optimiser les ressources pour produire à un coût minimum en évitant tout gaspillage et en consommant de manière écoresponsable."
+    },
+    {
+      "section": "1.1",
+      "recto": "Que vise la dimension sociale du DD et quels sont ses 5 principes ?",
+      "verso": "Assurer l'équité sociale (épanouissement des individus, essor des communautés, respect de la diversité).\n1. La santé et la qualité de vie\n2. L'équité et la solidarité sociales\n3. La participation et l'engagement\n4. L'accès au savoir\n5. La protection du patrimoine culturel"
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelles parties prenantes l'ingénieur doit-il considérer, et que recommande-t-on durant le projet ?",
+      "verso": "Clients; employé.e.s (cadres et syndicats); groupes environnementaux; fournisseurs; communauté locale.\nDurant toutes les phases : poursuivre un dialogue soutenu et faire place à l'amélioration pour satisfaire les attentes."
+    },
+    {
+      "section": "1.1",
+      "recto": "En quoi consiste la dimension environnementale du DD pour chaque projet ?",
+      "verso": "Maintenir l'intégrité de l'environnement (santé et sécurité des communautés, ressources, écosystèmes) :\n• comprendre le contexte et les enjeux (local et mondial);\n• choisir site, procédé et matériaux minimisant les impacts;\n• réduire les répercussions de la solution choisie;\n• tenir compte des effets de l'environnement sur le projet."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quelles sont les phases du cycle de vie d'un procédé ou d'un produit ?",
+      "verso": "Conception → extraction des matières premières → fabrication → distribution → utilisation → fin de vie → valorisation (qui reboucle vers la fabrication)."
+    },
+    {
+      "section": "1.1",
+      "recto": "Quel est le côté positif des contraintes du développement durable ?",
+      "verso": "Elles ouvrent la voie à des solutions d'ingénierie innovatrices, tant sur le plan technologique que sur les méthodes et processus employés."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce que l'économie circulaire ?",
+      "verso": "Un système économique qui, à toutes les étapes du cycle de vie, vise à :\n• réduire, voire éliminer, la consommation de ressources naturelles;\n• favoriser une circulation en boucle des matières;\n• intensifier l'utilisation des produits;\n• allonger leur durée de vie.\n(Conception : repenser · Fin de vie : optimiser)"
+    },
+    {
+      "section": "1.1",
+      "recto": "Que permet l'analyse de cycle de vie (ACV) ?",
+      "verso": "• Évaluer et mesurer les répercussions d'un projet aux différents moments de son cycle de vie;\n• faire des choix éclairés (matériaux, structures, systèmes, pratiques de fabrication ou de construction);\n• recueillir les données pour développer des solutions durables."
+    },
+    {
+      "section": "1.1",
+      "recto": "Qu'est-ce que l'éco-conception et que sont les 3RV ?",
+      "verso": "Une approche méthodique qui prend en considération les aspects environnementaux de la conception pour réduire les impacts négatifs tout au long du cycle de vie d'un produit.\n3RV : Réduction à la source, Réemploi, Recyclage, Valorisation."
+    },
+    {
+      "section": "1.2",
+      "recto": "Qui est responsable du développement des compétences professionnelles de l'ingénieur ?",
+      "verso": "L'ingénieur lui-même. L'Ordre l'accompagne en proposant des outils adaptés et des formations pertinentes."
+    },
+    {
+      "section": "1.2",
+      "recto": "Pourquoi existe le Règlement sur la formation continue obligatoire des ingénieurs ?",
+      "verso": "Il se justifie par l'évolution rapide et constante des compétences requises. Il permet à l'Ordre d'encadrer le développement des compétences de ses membres et de contrôler l'exercice de la profession."
+    },
+    {
+      "section": "1.2",
+      "recto": "Qu'attend le législateur de l'Ordre en matière de développement professionnel ?",
+      "verso": "Que l'Ordre s'applique à promouvoir, à soutenir et à contrôler le développement professionnel de ses membres (pour la protection du public)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Pourquoi l'ingénieur a-t-il une responsabilité de formation, et que lui impose le Code de déontologie ?",
+      "verso": "En raison de son statut professionnel et du monopole qu'il détient sur certaines activités. Il doit notamment :\n• agir avec compétence;\n• favoriser les mesures d'éducation et d'information;\n• contribuer au développement de la profession."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les 10 activités admissibles selon le Règlement sur la formation continue obligatoire ?",
+      "verso": "1. Préparation d'un plan de développement professionnel\n2. Activités d'autoapprentissage\n3. Formateur (animateur/conférencier/modérateur)\n4. Communauté de pratique et comité technique\n5. Séminaires\n6. Rédaction d'un article ou ouvrage publié\n7. Démarche structurée d'accompagnement individuel\n8. Ateliers\n9. Cours\n10. Conférences"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les 4 étapes de la démarche réflexive du plan de développement professionnel ?",
+      "verso": "1. Évaluation et analyse de la situation présente\n2. Détermination de la vision (objectif principal) et des objectifs d'apprentissage (sous-objectifs)\n3. Planification des activités de développement\n4. Mise en œuvre et suivi"
+    },
+    {
+      "section": "1.2",
+      "recto": "Qu'est-ce qu'une activité d'autoapprentissage ? Exemples ?",
+      "verso": "Une activité réalisée seul, sans formateur ni professeur et sans contrôle indépendant des dates et de la durée.\nEx. : lecture d'articles ou d'ouvrages spécialisés, exercices techniques, visionnement de conférences vidéo/Web, cours sur DVD, tutoriels."
+    },
+    {
+      "section": "1.2",
+      "recto": "À quelles conditions l'activité de formateur (animateur/conférencier/modérateur) est-elle admissible ?",
+      "verso": "Seulement lorsqu'elle est présentée une première fois, ou après que des modifications ont été apportées à au moins 50 % du contenu. Elle doit permettre d'acquérir de nouvelles connaissances (la préparation = recherche, analyse, rédaction d'un plan)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Définissez une communauté de pratique et un comité technique.",
+      "verso": "• Communauté de pratique : groupe qui se rassemble pour discuter et apprendre les uns des autres (face à face ou virtuellement), structuré en objectifs, contenu et déroulement.\n• Comité technique : personnes aux compétences spécifiques partageant une préoccupation technique commune, réunies dans une démarche structurée pour améliorer leur exercice professionnel."
+    },
+    {
+      "section": "1.2",
+      "recto": "Qu'est-ce qu'un séminaire (formation continue) ?",
+      "verso": "Une réunion à caractère scientifique (en salle ou en ligne), avec un groupe restreint, généralement animée par un professeur, un chercheur ou un spécialiste, visant à faire le point sur l'état des connaissances. Doit être structurée (objectifs, contenu, déroulement)."
+    },
+    {
+      "section": "1.2",
+      "recto": "À quelle condition la rédaction d'un article ou d'un ouvrage est-elle admissible ?",
+      "verso": "Dans la mesure où il est publié. Il doit présenter un contenu élaboré pour contribuer au développement des connaissances pertinentes à la profession."
+    },
+    {
+      "section": "1.2",
+      "recto": "Qu'est-ce qu'une démarche structurée d'accompagnement individuel ?",
+      "verso": "Une démarche où un accompagnateur soutient le développement professionnel d'un apprenant (transmettre des connaissances, développer habiletés ou attitudes). Ex. : mentorat, coaching, parrainage en rencontres structurées."
+    },
+    {
+      "section": "1.2",
+      "recto": "Définissez un atelier (formation continue).",
+      "verso": "Activité (en salle ou en ligne) réunissant plusieurs personnes pour discuter ou approfondir une matière dans une perspective d'apprentissage, dirigée par un animateur ou modérateur et structurée. Ex. : rencontre ponctuelle, accompagnement collectif, mentorat, coaching, parrainage."
+    },
+    {
+      "section": "1.2",
+      "recto": "Définissez un cours (formation continue) et donnez des exemples.",
+      "verso": "Activité individuelle ou collective structurée par un plan de cours (objectifs, contenu, durée, moyens pédagogiques).\nEx. : cours universitaires ou collégiaux crédités, cours non crédités, études personnelles en vue d'un examen de certification."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelle exigence particulière doit respecter une conférence pour être admissible ?",
+      "verso": "Être structurée (objectifs et contenu) et prévoir au moins une période de questions. Ex. : présentation orale, visite industrielle."
+    },
+    {
+      "section": "1.2",
+      "recto": "Où trouve-t-on le tableau synthèse des activités de formation continue ?",
+      "verso": "Dans le Guide d'application du règlement sur la formation continue obligatoire des ingénieurs (p. 16) : activités admissibles, calcul des heures et pièces justificatives requises."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles activités sont non admissibles en formation continue, et pourquoi ?",
+      "verso": "• Présentations techniques de vente : objectif d'abord de mise en marché d'un produit ou service.\n• Activités dans le cadre du travail (ex. réunions) : objectif d'abord lié à la conduite d'un projet ou aux opérations."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelle doit être la finalité du contenu d'une activité de formation continue ? Sur quoi peut-il porter ?",
+      "verso": "Développer, maintenir ou améliorer des compétences pertinentes à l'exercice de la profession. Il peut porter sur les aspects techniques ou sur d'autres aspects : droit, gestion, éthique, communications."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels sont les 6 critères d'admissibilité d'une formation ?",
+      "verso": "1. Type reconnu comme activité admissible\n2. Contenu lié aux compétences pertinentes de la profession\n3. En lien avec les activités professionnelles actuelles ou futures du membre\n4. Structurée (objectifs d'apprentissage et contenu)\n5. Durée minimale de 30 minutes\n6. Réussie ou, faute d'évaluation, suivie"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelle est l'obligation de formation continue (article 1 du Règlement) ?",
+      "verso": "Cumuler au moins 30 heures de formation continue au cours d'une période de référence de 2 ans (à moins d'en être dispensé selon la section IV)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelle est la date limite de la déclaration de formation continue (article 7) ?",
+      "verso": "Au plus tard le 15 avril qui suit la fin de chaque période de référence, sur le formulaire prévu (dans le portail des membres)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Combien de temps conserver les pièces justificatives de formation continue (article 8) ?",
+      "verso": "Pendant 2 ans suivant la fin de la période de référence à laquelle elles se rapportent."
+    },
+    {
+      "section": "1.2",
+      "recto": "Qu'est-ce que l'obligation particulière de formation continue (article 5) ?",
+      "verso": "Le Conseil d'administration peut imposer à tous les ingénieurs ou à certains d'entre eux une activité particulière ou des activités sur un sujet déterminé (ex. : déontologie), notamment en raison d'une réforme législative ou réglementaire, d'un changement ou de lacunes dans l'exercice de la profession."
+    },
+    {
+      "section": "1.2",
+      "recto": "Sur quelle base l'Ordre reconnaît-il la réussite d'une activité de formation continue ?",
+      "verso": "• Le résultat d'une évaluation, ou\n• la participation à l'activité.\nL'Ordre peut exiger tout document ou renseignement pour vérifier la conformité."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quel est le délai pour demander la révision d'un refus de reconnaissance d'une activité (article 10) ?",
+      "verso": "15 jours à compter de la réception de la décision (rendue en application de l'article 9)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les sanctions en cas de défaut de formation continue (article 16) ?",
+      "verso": "• Radiation du tableau de l'Ordre si le défaut n'est pas corrigé dans les délais.\n• Limitation du droit d'exercice pour l'ingénieur qui ne suit pas une formation imposée en raison de la nature de ses activités."
+    },
+    {
+      "section": "1.2",
+      "recto": "Que contient l'avis transmis avant une radiation ou limitation pour défaut de formation continue ?",
+      "verso": "La nature du défaut et un délai de 90 jours à compter de sa réception pour remédier à la situation."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quand une sanction pour défaut de formation continue est-elle levée ?",
+      "verso": "Elle demeure en vigueur jusqu'à ce que la personne fournisse la preuve qu'elle a remédié à son défaut et que la sanction soit levée par le Conseil d'administration (art. 16)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Qu'est-ce que la compétence professionnelle selon l'OIQ ?",
+      "verso": "Accomplir les actes professionnels conformément aux exigences en vigueur. Elle se traduit par :\n• les connaissances (le savoir);\n• les habiletés (le savoir-faire);\n• les aptitudes (le savoir-être)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Comment est constitué le cadre de référence des compétences de l'ingénieur ?",
+      "verso": "10 champs de compétences :\n• 4 champs de compétences transversales;\n• 6 champs plus techniques organisés selon le cycle de vie du projet d'ingénierie.\nChaque champ → compétences → éléments de compétence."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels sont les 4 champs de compétences transversales ?",
+      "verso": "1. Agir professionnellement\n2. Démontrer ses aptitudes personnelles\n3. Communiquer efficacement\n4. Gérer ses projets et ses équipes"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels sont les 6 champs de compétences techniques (dans l'ordre du cycle de vie du projet) ?",
+      "verso": "1. Établir le mandat\n2. Rechercher les informations et données pertinentes\n3. Déterminer la solution\n4. Concevoir la solution\n5. Surveiller la mise en œuvre de la solution\n6. Soutenir l'exploitation"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les compétences du champ « Agir professionnellement » ?",
+      "verso": "A. Prioriser la protection du public\nB. Respecter ses obligations déontologiques\nC. Exploiter les informations et les outils de sa pratique\nD. Gérer son développement professionnel\nE. Participer au développement de sa profession"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels sont les éléments de la compétence « Respecter ses obligations déontologiques » ?",
+      "verso": "1. Se conformer aux règles de l'art (lois, codes, règlements, normes)\n2. Reconnaître les limites de ses compétences et de ses moyens\n3. Signaler l'incompétence et les comportements non conformes des ingénieurs\n4. Prévenir les conflits de loyauté et autres situations problématiques\n5. Résoudre les dilemmes éthiques"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les compétences des champs « Démontrer ses aptitudes personnelles » et « Communiquer efficacement » ?",
+      "verso": "Aptitudes personnelles : faire preuve de jugement, de rigueur, d'esprit d'analyse, de créativité et de débrouillardise.\nCommuniquer : communiquer verbalement et par écrit; maintenir des relations saines et efficaces; travailler en équipe."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les compétences des champs « Gérer ses projets et ses équipes » et « Établir le mandat » ?",
+      "verso": "Gérer : gérer les mandats et les projets; superviser les équipes.\nÉtablir le mandat : définir les besoins et les attentes; préciser l'encadrement légal, réglementaire et normatif; convenir du mandat."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les compétences du champ « Rechercher les informations et données pertinentes » ?",
+      "verso": "A. Établir les paramètres d'analyse\nB. Recueillir les faits\nC. Déterminer les sources potentielles de danger et les risques\nD. Consulter la documentation existante et les intervenants\nE. Considérer les meilleures pratiques et les usages\nF. Détailler les contraintes, les limites et les opportunités"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les compétences des champs « Déterminer la solution » et « Concevoir la solution » ?",
+      "verso": "Déterminer : évaluer les solutions; traiter les risques techniques; recommander une solution.\nConcevoir : traiter les données; intégrer les composants; prévoir les impacts sur la réalisation des travaux; prévoir les exigences d'exploitation; valider la conception; produire les documents d'ingénierie."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les compétences des champs « Surveiller la mise en œuvre » et « Soutenir l'exploitation » ?",
+      "verso": "Surveiller : planifier, effectuer et terminer la surveillance; mettre en service.\nSoutenir l'exploitation : superviser; entretenir; attester la conformité; gérer les risques en continu; désaffecter et démanteler."
+    },
+    {
+      "section": "1.2",
+      "recto": "Que sont les profils de compétences et quelles questions permettent-ils de se poser ?",
+      "verso": "Des listes de compétences détaillées développées selon le cadre de référence pour certains domaines de pratique jugés à risque (voir le Guide de pratique professionnelle). Questions :\n• Mes actes d'ingénierie sont-ils conformes?\n• Ma pratique professionnelle est-elle adéquate?"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les 3 étapes du cycle annuel de gestion du développement des compétences ?",
+      "verso": "1. Planifier le développement de ses compétences\n2. Effectuer le suivi de son plan\n3. Faire le bilan de ses activités"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les 3 actions de l'étape « Planifier le développement de ses compétences » ?",
+      "verso": "A. Évaluer la situation actuelle\nB. Établir les objectifs annuels\nC. Planifier les activités"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles 2 questions se poser pour définir les compétences à développer ?",
+      "verso": "Dans le cadre de mes activités professionnelles actuelles, puis futures : quelles compétences je souhaite mettre à jour, améliorer, approfondir ou développer?"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels 3 aspects considérer pour évaluer sa situation actuelle ?",
+      "verso": "• Performance professionnelle (sécurité, qualité, échéancier, coûts)\n• Environnement professionnel (changements de code, norme, équipement, matériaux, responsabilités)\n• Objectifs de carrière (projets, responsabilités, secteurs visés)"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels outils de l'Ordre aident à évaluer sa situation actuelle ?",
+      "verso": "Le cadre de référence, les profils de compétences et le Guide d'accompagnement pour préparer le plan de développement professionnel."
+    },
+    {
+      "section": "1.2",
+      "recto": "Combien de compétences retenir par période de référence, et comment établir les priorités ?",
+      "verso": "De deux à trois compétences. Classer les compétences par priorité, privilégier celles liées à l'emploi actuel et aux objectifs de carrière, sans nuire à la qualité du travail."
+    },
+    {
+      "section": "1.2",
+      "recto": "Où recueillir l'information préliminaire sur les compétences à développer ?",
+      "verso": "Auprès de collègues qui possèdent la compétence; les écoles, facultés de génie et associations techniques peuvent aider à trouver des personnes-ressources. Pour les attitudes : une personne qui les possède ou des services d'accompagnement professionnel."
+    },
+    {
+      "section": "1.2",
+      "recto": "De quels 3 éléments se compose un objectif de développement de compétences ?",
+      "verso": "1. La connaissance requise\n2. Le niveau d'habileté qui s'y rapporte\n3. Les conditions d'application de la compétence"
+    },
+    {
+      "section": "1.2",
+      "recto": "Que signifie SMART pour un objectif de développement ?",
+      "verso": "Spécifique · Mesurable · Atteignable · Réaliste · Temporellement défini (date)"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels 2 types d'activités rechercher lors de la planification ?",
+      "verso": "1. Activités de développement des compétences (cours, rédaction/publication, mentorat, communautés de pratique, conférences, préparation d'un cours…)\n2. Activités de transfert des apprentissages en situation de travail (appliquer au travail les compétences récemment acquises)"
+    },
+    {
+      "section": "1.2",
+      "recto": "Qu'est-ce que le Plan de développement professionnel et combien d'heures vaut sa préparation ?",
+      "verso": "Les activités retenues consignées dans le dossier de développement professionnel avec leurs dates prévues. Sa préparation est admissible jusqu'à un maximum d'une (1) heure de formation continue (art. 3)."
+    },
+    {
+      "section": "1.2",
+      "recto": "Quel est le moyen à privilégier pour développer ses compétences ?",
+      "verso": "L'expérience de travail, bonifiée par l'acquisition de connaissances de base et par la rétroaction en continu. Choisir dans les 3 catégories consolide, voire accélère, la progression."
+    },
+    {
+      "section": "1.2",
+      "recto": "Parmi expérience de travail, rétroaction et acquisition de connaissances, quelles activités sont admissibles en formation continue ?",
+      "verso": "• Rétroaction : coaching et groupe de co-développement\n• Acquisition de connaissances : formations, lectures, conférences\n(Toute activité visant principalement l'acquisition de connaissances, en lien avec la pratique, est admissible. L'expérience de travail elle-même ne l'est pas.)"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quelles sont les 4 étapes pour faire approuver son plan de développement ?",
+      "verso": "1. Présenter le plan à un supérieur\n2. Explorer un aménagement de la charge de travail\n3. Discuter de projets ou mandats pour appliquer rapidement les compétences\n4. Ajuster le plan au besoin"
+    },
+    {
+      "section": "1.2",
+      "recto": "Que recommande-t-on pour le suivi du plan ? Que doivent indiquer les pièces justificatives ?",
+      "verso": "Inscrire dates de réalisation et heures; conserver les pièces justificatives; déclarer l'heure de préparation du plan.\nLes pièces indiquent : type d'activité, durée, dates, contenu, fournisseur et, le cas échéant, attestation de présence ou résultat."
+    },
+    {
+      "section": "1.2",
+      "recto": "À quoi sert le bilan de ses activités et quelles questions se poser ?",
+      "verso": "À évaluer l'impact sur sa pratique et sur ses prochains objectifs (étape souvent négligée, assure la cohérence).\n• Pratique : pertinence? méthodes améliorées? nouvelles tâches?\n• Objectifs : la situation d'origine est-elle corrigée? maintenir l'objectif ou en adopter un nouveau?"
+    },
+    {
+      "section": "1.2",
+      "recto": "Quels sont les 4 conseils pour le plan de développement des compétences ?",
+      "verso": "1. Objectifs : les revoir pour s'adapter à une nouvelle situation\n2. Priorités : les établir quand la charge de travail est importante\n3. Réalisation : appliquer au travail ce qui a été appris\n4. Consultation : demander de la rétroaction au supérieur, aux collègues, aux clients"
+    }
   ],
   "quiz": [
-    { "section": "1.1", "question": "Quelle loi est la loi-cadre du système professionnel québécois ?", "choix": ["La Loi sur les ingénieurs", "Le Code des professions", "Le Code civil du Québec", "La Charte de la langue française"], "reponse": 1, "explication": "Le Code des professions est la loi-cadre qui régit le système professionnel québécois." },
-    { "section": "1.1", "question": "Lequel de ces principes N'EST PAS un principe de base du système professionnel québécois ?", "choix": ["L'autogestion", "Le jugement par les pairs", "La libre concurrence", "La responsabilité professionnelle"], "reponse": 2, "explication": "Les 5 principes : autogestion, déontologie, compétence, responsabilité professionnelle et jugement par les pairs." },
-    { "section": "1.1", "question": "Lequel des organismes suivants N'EST PAS un acteur du système professionnel québécois ?", "choix": ["L'Office des professions du Québec", "Le Conseil interprofessionnel du Québec", "Le Tribunal des professions", "La Cour supérieure du Québec"], "reponse": 3, "explication": "Les acteurs : gouvernement, Tribunal des professions, Office des professions, Conseil interprofessionnel et ordres professionnels." },
-    { "section": "1.1", "question": "Quel acteur peut placer un ordre professionnel sous tutelle ?", "choix": ["Le Conseil interprofessionnel du Québec", "Le gouvernement", "Le Tribunal des professions", "Le conseil d'administration de l'ordre"], "reponse": 1, "explication": "Le gouvernement, dans son rôle de surveillance et de contrôle, peut décider de placer sous tutelle tout ordre professionnel." },
-    { "section": "1.1", "question": "Le Code de déontologie des ingénieurs doit être approuvé par :", "choix": ["Le gouvernement", "Le Tribunal des professions", "Le Conseil interprofessionnel", "L'Assemblée nationale par vote"], "reponse": 0, "explication": "Le gouvernement approuve certains règlements des ordres, notamment le Code de déontologie des ingénieurs." },
-    { "section": "1.1", "question": "Qui détermine, par règlement, les diplômes donnant ouverture à un permis ?", "choix": ["L'ordre professionnel seul", "Les universités", "Le gouvernement, après consultation de l'Office et de l'ordre concerné", "Le Conseil interprofessionnel"], "reponse": 2, "explication": "Le gouvernement le fait par règlement, à la suite de consultations auprès de l'Office des professions et de l'ordre concerné." },
-    { "section": "1.1", "question": "À qui revient l'application des dispositions du Code des professions relatives au Tribunal des professions ?", "choix": ["Au ministre responsable des lois professionnelles", "Au ministre de la Justice", "Au président de l'Office des professions", "Au juge en chef de la Cour du Québec"], "reponse": 1, "explication": "C'est au ou à la ministre de la Justice que revient l'application des dispositions relatives au Tribunal des professions." },
-    { "section": "1.1", "question": "Le Tribunal des professions est composé de :", "choix": ["11 juges de la Cour du Québec", "9 juges de la Cour supérieure", "11 ingénieurs nommés par l'Ordre", "Un représentant de chaque ordre"], "reponse": 0, "explication": "Le Tribunal des professions, instance d'appel spécialisée, est composé de 11 juges de la Cour du Québec." },
-    { "section": "1.1", "question": "Le Tribunal des professions est une instance :", "choix": ["De première instance en matière disciplinaire seulement", "D'appel, en matière disciplinaire mais aussi administrative", "Consultative auprès du gouvernement", "D'arbitrage des comptes d'honoraires"], "reponse": 1, "explication": "C'est une instance d'appel spécialisée, relativement à des questions disciplinaires, mais aussi administratives." },
-    { "section": "1.1", "question": "Quel est le mandat principal de l'Office des professions du Québec ?", "choix": ["Représenter les ordres auprès du gouvernement", "Veiller à ce que tous les ordres assurent la protection du public", "Entendre les appels disciplinaires", "Délivrer les permis d'exercice"], "reponse": 1, "explication": "L'Office veille à ce que tous les ordres professionnels assurent la protection du public." },
-    { "section": "1.1", "question": "Enquêter sur un ordre en situation financière déficitaire relève de quelle fonction de l'Office ?", "choix": ["Fonction juridique", "Fonction de conseil", "Fonction de surveillance", "Fonction disciplinaire"], "reponse": 2, "explication": "La fonction de surveillance inclut d'enquêter si un ordre présente une situation financière déficitaire ou ne remplit pas ses devoirs." },
-    { "section": "1.1", "question": "Adopter des règlements sur les normes d'éthique et de déontologie des administrateurs d'un ordre relève de :", "choix": ["La fonction juridique de l'Office", "La fonction de surveillance de l'Office", "Du Conseil interprofessionnel", "Du comité de gouvernance et d'éthique de l'Ordre"], "reponse": 0, "explication": "La fonction juridique de l'Office comprend l'adoption de règlements sur le tableau, le rapport annuel et les normes d'éthique des administrateurs." },
-    { "section": "1.1", "question": "Quel organisme peut entendre un groupe désirant être reconnu en tant qu'ordre professionnel ?", "choix": ["Le Tribunal des professions", "Le Conseil interprofessionnel du Québec", "Le comité exécutif de l'OIQ", "L'Assemblée nationale"], "reponse": 1, "explication": "Le Conseil interprofessionnel peut notamment entendre un groupe désirant être reconnu comme ordre professionnel." },
-    { "section": "1.1", "question": "Le Conseil interprofessionnel du Québec est formé :", "choix": ["De juges de la Cour du Québec", "De fonctionnaires de l'Office", "De l'ensemble des ordres professionnels, qui y délèguent chacun un représentant", "De membres élus par le public"], "reponse": 2, "explication": "Il est formé de l'ensemble des ordres professionnels, qui y délèguent chacun un représentant." },
-    { "section": "1.1", "question": "Un ordre professionnel existe essentiellement pour :", "choix": ["Défendre les intérêts économiques de ses membres", "Protéger le public", "Négocier les tarifs d'honoraires", "Promouvoir l'emploi en génie"], "reponse": 1, "explication": "Un ordre professionnel existe, veille et agit essentiellement pour la protection du public." },
-    { "section": "1.1", "question": "« Le consentement des membres d'un ordre à s'imposer des règles d'éthique communes et à les faire respecter » définit :", "choix": ["L'autorégulation", "L'autogestion", "L'autodiscipline", "Le jugement par les pairs"], "reponse": 2, "explication": "C'est la définition de l'autodiscipline." },
-    { "section": "1.1", "question": "« La surveillance de l'exercice de la profession par l'ordre désigné, la qualité étant évaluée par des pairs » définit :", "choix": ["L'autogestion", "L'autodiscipline", "L'autorégulation", "L'inspection professionnelle"], "reponse": 0, "explication": "C'est la définition de l'autogestion." },
-    { "section": "1.1", "question": "Laquelle N'EST PAS une des 6 principales responsabilités d'un ordre professionnel ?", "choix": ["Gérer le processus disciplinaire", "Produire un rapport annuel", "Fixer le salaire minimum de ses membres", "Contrôler l'exercice illégal et l'usurpation de titre"], "reponse": 2, "explication": "Les 6 responsabilités : compétence et intégrité, surveillance de l'exercice, discipline, développement de la profession, exercice illégal et usurpation, rapport annuel." },
-    { "section": "1.1", "question": "Une activité réservée que des membres d'ordres professionnels différents peuvent exercer est dite :", "choix": ["Autorisée", "Partagée", "Exclusive", "Déléguée"], "reponse": 1, "explication": "Une activité réservée est « partagée » lorsque des membres d'ordres différents peuvent l'exercer." },
-    { "section": "1.1", "question": "Une activité normalement réservée aux membres d'un ordre, mais que d'autres personnes peuvent exercer en vertu d'un règlement de cet ordre, est dite :", "choix": ["Partagée", "Tolérée", "Autorisée", "Déréglementée"], "reponse": 2, "explication": "C'est une activité « autorisée »." },
-    { "section": "1.1", "question": "Une activité est réservée :", "choix": ["Si l'ordre le décide par résolution", "Seulement si la loi le prévoit", "Si elle présente un risque pour le public", "Si la majorité des membres la pratique"], "reponse": 1, "explication": "Une activité n'est réservée que si la loi le prévoit." },
-    { "section": "1.1", "question": "Combien d'administrateurs du CA de l'OIQ sont nommés par l'Office des professions ?", "choix": ["2", "4", "11", "15"], "reponse": 1, "explication": "Le CA comprend un.e président.e, 11 administrateurs élus par les membres et 4 nommés par l'Office des professions." },
-    { "section": "1.1", "question": "Combien d'administrateurs du CA de l'OIQ sont élus par les membres (en plus du président) ?", "choix": ["4", "9", "11", "15"], "reponse": 2, "explication": "11 administrateurs.trices sont élu.e.s par les membres." },
-    { "section": "1.1", "question": "Quel comité de l'OIQ autorise les poursuites pénales en exercice illégal et en usurpation de titre ?", "choix": ["Le conseil de discipline", "Le comité exécutif", "Le comité d'inspection professionnelle", "Le comité de révision"], "reponse": 1, "explication": "Le comité exécutif rend des décisions administratives et autorise les poursuites pénales en exercice illégal et en usurpation de titre." },
-    { "section": "1.1", "question": "Quel comité délivre les permis et évalue la formation des personnes formées à l'étranger ?", "choix": ["Le comité d'accès à la profession", "Le comité de la formation des ingénieurs", "Le comité d'admission à l'exercice", "Le comité exécutif"], "reponse": 2, "explication": "Le comité d'admission à l'exercice délivre les permis et évalue la formation des personnes formées à l'étranger." },
-    { "section": "1.1", "question": "Quel comité évalue les candidat.e.s à la profession d'ingénieur (CPI) ?", "choix": ["Le comité d'accès à la profession", "Le comité d'admission à l'exercice", "Le comité de développement professionnel", "Le comité de liaison CODIQ-OIQ-CRÉIQ"], "reponse": 0, "explication": "Le comité d'accès à la profession évalue les CPI." },
-    { "section": "1.1", "question": "Quel comité examine le contenu des programmes universitaires de premier cycle en génie ?", "choix": ["Le comité d'admission à l'exercice", "Le comité de la formation des ingénieurs", "Le comité de développement professionnel", "Le comité de liaison CODIQ-OIQ-CRÉIQ"], "reponse": 1, "explication": "C'est le rôle du comité de la formation des ingénieurs." },
-    { "section": "1.1", "question": "Quel comité surveille l'exercice de la profession par les membres et vérifie leur compétence ?", "choix": ["Le comité d'inspection professionnelle", "Le conseil de discipline", "Le comité d'audit", "Le comité de développement professionnel"], "reponse": 0, "explication": "Le comité d'inspection professionnelle surveille l'exercice et vérifie la compétence professionnelle des membres." },
-    { "section": "1.1", "question": "Un client conteste un compte d'honoraires et la conciliation échoue. Quelle instance de l'OIQ intervient ?", "choix": ["Le conseil de discipline", "Le comité de révision", "Le conseil d'arbitrage", "Le Tribunal des professions"], "reponse": 2, "explication": "Le conseil d'arbitrage procède à l'arbitrage d'un compte d'ingénieur lorsque la conciliation n'a pu donner lieu à une entente." },
-    { "section": "1.1", "question": "Un syndic décide de ne pas porter plainte. Quel comité peut rendre un avis sur cette décision ?", "choix": ["Le comité de révision", "Le conseil de discipline", "Le comité exécutif", "Le comité d'enquête à l'éthique et à la déontologie"], "reponse": 0, "explication": "Le comité de révision rend un avis sur la décision d'un syndic de ne pas porter plainte." },
-    { "section": "1.1", "question": "Quel comité enquête sur la conduite des administrateurs de l'Ordre ?", "choix": ["Le comité de gouvernance et d'éthique", "Le comité d'enquête à l'éthique et à la déontologie", "Le conseil de discipline", "Le comité d'audit"], "reponse": 1, "explication": "Le comité d'enquête à l'éthique et à la déontologie enquête sur la conduite des administrateurs et recommande une sanction le cas échéant." },
-    { "section": "1.1", "question": "Le conseil de discipline peut entendre une plainte contre une personne pour une infraction commise :", "choix": ["Seulement si elle est encore membre au moment de la plainte", "Alors qu'elle était membre de l'Ordre", "Uniquement au cours des 5 dernières années", "Uniquement au Code civil"], "reponse": 1, "explication": "Le conseil de discipline décide d'une plainte formulée contre une personne alors qu'elle était membre de l'Ordre." },
-    { "section": "1.1", "question": "Dans le contrôle disciplinaire, qui enquête et qui sanctionne en première instance ?", "choix": ["Le CIP enquête, le Tribunal des professions sanctionne", "Les syndics enquêtent, le conseil de discipline sanctionne", "Le comité exécutif enquête, le CA sanctionne", "La police enquête, la Cour du Québec sanctionne"], "reponse": 1, "explication": "Enquête par les syndics, sanction par le conseil de discipline en première instance." },
-    { "section": "1.1", "question": "Lequel N'EST PAS un des 5 mécanismes de contrôle de l'exercice de la profession de l'OIQ ?", "choix": ["Surveillance de la pratique illégale", "Contrôle disciplinaire", "Négociation collective", "Développement professionnel"], "reponse": 2, "explication": "Les 5 mécanismes : accès à la profession, surveillance de l'exercice, contrôle disciplinaire, développement professionnel, surveillance de la pratique illégale." },
-    { "section": "1.1", "question": "Laquelle N'EST PAS une obligation administrative de l'ingénieur.e ?", "choix": ["Payer annuellement sa cotisation", "Avoir une assurance responsabilité professionnelle adéquate", "Déclarer ses condamnations pénales et disciplinaires", "Être membre d'une association technique"], "reponse": 3, "explication": "Les obligations : cotisation, assurance, formation déclarée, signaler l'usurpation de titre, déclarer ses condamnations." },
-    { "section": "1.1", "question": "Lequel est un exemple d'implication dans la gouvernance de l'Ordre ?", "choix": ["Approuver la rémunération des administrateurs élus", "Fixer le montant des amendes disciplinaires", "Nommer les juges du Tribunal des professions", "Délivrer les permis"], "reponse": 0, "explication": "Exemples : nommer les vérificateurs, approuver la rémunération des administrateurs élus, contribuer à des consultations." },
-    { "section": "1.1", "question": "En quelle année a été publié le Rapport Brundtland (« Notre avenir à tous ») ?", "choix": ["1972", "1987", "1992", "2004"], "reponse": 1, "explication": "Publié en 1987 à la suite des travaux de la Commission mondiale sur l'environnement et le développement de l'ONU." },
-    { "section": "1.1", "question": "Depuis quelle année la Loi sur le développement durable du Québec existe-t-elle ?", "choix": ["1987", "1994", "2004", "2015"], "reponse": 2, "explication": "Depuis 2004, la Loi place le développement durable au cœur des ministères et organismes gouvernementaux." },
-    { "section": "1.1", "question": "Lequel N'EST PAS un principe sur lequel l'OIQ appuie ses interventions en développement durable ?", "choix": ["Viser l'amélioration continue", "Miser sur la collaboration", "Soutenir l'innovation et la rigueur scientifique", "Prioriser la rentabilité à court terme"], "reponse": 3, "explication": "Les 3 principes : amélioration continue, collaboration, innovation et rigueur scientifique." },
-    { "section": "1.1", "question": "Dans le schéma du développement durable, l'intersection des dimensions environnementale et économique est dite :", "choix": ["Vivable", "Viable", "Équitable", "Durable"], "reponse": 1, "explication": "Environnement + économie = Viable; environnement + social = Vivable; social + économie = Équitable." },
-    { "section": "1.1", "question": "L'intersection des dimensions sociale et économique est dite :", "choix": ["Équitable", "Vivable", "Viable", "Responsable"], "reponse": 0, "explication": "Social + économique = Équitable." },
-    { "section": "1.1", "question": "« Intégrer le coût global et réel de l'ensemble des impacts du projet sur la société et l'environnement, tout au long de son cycle de vie » correspond à :", "choix": ["L'éco-efficience", "Le pollueur-payeur", "L'internalisation des coûts", "La production responsable"], "reponse": 2, "explication": "C'est la définition de l'internalisation des coûts (dimension économique)." },
-    { "section": "1.1", "question": "Lequel N'EST PAS un des 5 principes soutenant la dimension sociale du développement durable ?", "choix": ["L'accès au savoir", "La protection du patrimoine culturel", "La participation et l'engagement", "La croissance du PIB"], "reponse": 3, "explication": "Les 5 principes : santé et qualité de vie, équité et solidarité sociales, participation et engagement, accès au savoir, protection du patrimoine culturel." },
-    { "section": "1.1", "question": "Lequel N'EST PAS un objectif de l'économie circulaire ?", "choix": ["Favoriser une circulation en boucle des matières", "Allonger la durée de vie des produits", "Intensifier l'utilisation des produits", "Accélérer le remplacement des produits"], "reponse": 3, "explication": "L'économie circulaire vise à réduire la consommation de ressources, boucler les matières, intensifier l'utilisation et allonger la durée de vie." },
-    { "section": "1.1", "question": "Que désignent les 3RV en éco-conception ?", "choix": ["Réduire, Réparer, Revendre, Valoriser", "Réduction à la source, Réemploi, Recyclage, Valorisation", "Recherche, Réalisation, Révision, Validation", "Réemploi, Rénovation, Recyclage, Vérification"], "reponse": 1, "explication": "3RV : Réduction à la source, Réemploi, Recyclage et Valorisation." },
-    { "section": "1.1", "question": "Quelle méthodologie permet d'évaluer et de mesurer les répercussions d'un projet aux différents moments de son cycle de vie ?", "choix": ["L'analyse de cycle de vie (ACV)", "L'analyse coûts-bénéfices", "L'analyse de risques", "L'économie circulaire"], "reponse": 0, "explication": "C'est l'analyse de cycle de vie (ACV)." },
-
-    { "section": "1.2", "question": "Combien d'heures de formation continue l'ingénieur doit-il cumuler, et sur quelle période ?", "choix": ["20 heures par année", "30 heures sur 2 ans", "30 heures par année", "40 heures sur 3 ans"], "reponse": 1, "explication": "Au moins 30 heures au cours d'une période de référence de 2 ans (article 1)." },
-    { "section": "1.2", "question": "Au plus tard quand faut-il transmettre la déclaration de formation continue ?", "choix": ["Le 31 décembre de la période de référence", "Le 31 mars suivant la fin de la période", "Le 15 avril suivant la fin de la période", "Le 30 juin suivant la fin de la période"], "reponse": 2, "explication": "Au plus tard le 15 avril qui suit la fin de chaque période de référence (article 7)." },
-    { "section": "1.2", "question": "Pendant combien de temps faut-il conserver les pièces justificatives de formation continue ?", "choix": ["1 an après l'activité", "2 ans suivant la fin de la période de référence", "5 ans suivant la fin de la période de référence", "10 ans"], "reponse": 1, "explication": "Pendant 2 ans suivant la fin de la période de référence à laquelle elles se rapportent (article 8)." },
-    { "section": "1.2", "question": "Quelle est la durée minimale d'une formation pour être admissible ?", "choix": ["15 minutes", "30 minutes", "1 heure", "3 heures"], "reponse": 1, "explication": "La formation doit être d'une durée minimale de 30 minutes." },
-    { "section": "1.2", "question": "La préparation d'un plan de développement professionnel est reconnue pour au maximum :", "choix": ["30 minutes", "1 heure", "3 heures", "Elle n'est pas admissible"], "reponse": 1, "explication": "Admissible jusqu'à concurrence d'une (1) heure (article 3)." },
-    { "section": "1.2", "question": "Un ingénieur redonne une conférence déjà présentée. À quelle condition l'activité de formateur est-elle admissible ?", "choix": ["Toujours admissible", "Si au moins 50 % du contenu a été modifié", "Si au moins 25 % du contenu a été modifié", "Si le public est différent"], "reponse": 1, "explication": "Admissible seulement à la première présentation ou après modification d'au moins 50 % du contenu." },
-    { "section": "1.2", "question": "Laquelle de ces activités N'EST PAS admissible en formation continue ?", "choix": ["Une présentation technique de vente d'un fournisseur", "Un webinaire de séminaire structuré", "La lecture d'ouvrages spécialisés", "Une visite industrielle structurée"], "reponse": 0, "explication": "La présentation technique de vente n'est pas admissible : elle poursuit d'abord un objectif de mise en marché." },
-    { "section": "1.2", "question": "Pourquoi une réunion de projet riche en apprentissages n'est-elle pas admissible ?", "choix": ["Elle dure souvent moins de 30 minutes", "Elle poursuit d'abord un objectif lié à la conduite d'un projet ou aux opérations", "Elle n'est pas donnée par un professeur", "Elle n'a pas d'attestation"], "reponse": 1, "explication": "Les activités dans le cadre du travail poursuivent d'abord un objectif lié à la conduite d'un projet ou au déroulement des opérations." },
-    { "section": "1.2", "question": "La rédaction d'un article est admissible en formation continue :", "choix": ["Dans tous les cas", "Dans la mesure où l'article est publié", "Seulement s'il est révisé par un pair", "Seulement s'il fait plus de 10 pages"], "reponse": 1, "explication": "La rédaction d'un article ou d'un ouvrage est admissible dans la mesure où celui-ci est publié." },
-    { "section": "1.2", "question": "Quelle exigence particulière s'applique aux conférences pour être admissibles ?", "choix": ["Être données par un ingénieur", "Prévoir au moins une période de questions", "Durer au moins 3 heures", "Comporter un examen final"], "reponse": 1, "explication": "La conférence doit être structurée et prévoir au moins une période de questions." },
-    { "section": "1.2", "question": "Des études personnelles en vue d'un examen de certification sont classées comme :", "choix": ["Autoapprentissage", "Participation à des cours", "Activité non admissible", "Séminaire"], "reponse": 1, "explication": "Elles figurent parmi les exemples de « participation à des cours »." },
-    { "section": "1.2", "question": "Lequel N'EST PAS un critère d'admissibilité d'une formation ?", "choix": ["Être structurée en objectifs et contenu", "Avoir été réussie ou, faute d'évaluation, suivie", "Être offerte par l'Ordre des ingénieurs", "Être en lien avec les activités actuelles ou futures du membre"], "reponse": 2, "explication": "Il n'est pas exigé que la formation soit offerte par l'Ordre. Les 6 critères portent sur le type, le contenu, le lien avec la pratique, la structure, la durée (30 min) et la réussite/participation." },
-    { "section": "1.2", "question": "Qui peut imposer une activité de formation continue particulière à certains ingénieurs ?", "choix": ["Le syndic", "Le Conseil d'administration de l'Ordre", "L'Office des professions", "L'employeur"], "reponse": 1, "explication": "Le CA peut imposer une formation particulière (article 5), par exemple en raison d'une réforme législative ou de lacunes." },
-    { "section": "1.2", "question": "L'Ordre refuse de reconnaître une activité déclarée. Quel est le délai pour en demander la révision ?", "choix": ["15 jours de la réception de la décision", "30 jours", "60 jours", "90 jours"], "reponse": 0, "explication": "Dans les 15 jours de la réception de la décision (article 10)." },
-    { "section": "1.2", "question": "Avant une radiation pour défaut de formation continue, de combien de temps l'ingénieur dispose-t-il pour remédier à son défaut après réception de l'avis ?", "choix": ["15 jours", "30 jours", "60 jours", "90 jours"], "reponse": 3, "explication": "L'avis indique la nature du défaut et un délai de 90 jours à compter de sa réception." },
-    { "section": "1.2", "question": "Un ingénieur ne suit pas une formation imposée en raison de la nature de ses activités. Quelle sanction s'applique s'il ne remédie pas à son défaut ?", "choix": ["Une amende", "La limitation de son droit d'exercice", "Une plainte disciplinaire automatique", "Une inspection professionnelle"], "reponse": 1, "explication": "L'article 16 prévoit la limitation du droit d'exercice dans ce cas (et la radiation pour le défaut général)." },
-    { "section": "1.2", "question": "Qui lève une sanction imposée pour défaut de formation continue ?", "choix": ["Le syndic", "Le conseil de discipline", "Le Conseil d'administration", "Le Tribunal des professions"], "reponse": 2, "explication": "La sanction demeure jusqu'à la preuve que le défaut est corrigé et qu'elle soit levée par le Conseil d'administration." },
-    { "section": "1.2", "question": "La compétence professionnelle se traduit par :", "choix": ["Le diplôme, l'expérience et le permis", "Le savoir, le savoir-faire et le savoir-être", "Les heures de formation déclarées", "Le jugement, la rigueur et la créativité"], "reponse": 1, "explication": "Connaissances (savoir), habiletés (savoir-faire) et aptitudes (savoir-être)." },
-    { "section": "1.2", "question": "Combien de champs de compétences compte le cadre de référence de l'OIQ ?", "choix": ["6", "8", "10", "12"], "reponse": 2, "explication": "10 champs : 4 transversaux et 6 techniques organisés selon le cycle de vie du projet." },
-    { "section": "1.2", "question": "Lequel est un champ de compétences transversales ?", "choix": ["Établir le mandat", "Concevoir la solution", "Communiquer efficacement", "Soutenir l'exploitation"], "reponse": 2, "explication": "Transversaux : agir professionnellement, démontrer ses aptitudes personnelles, communiquer efficacement, gérer ses projets et ses équipes." },
-    { "section": "1.2", "question": "Quel est le premier champ de compétences techniques dans le cycle de vie du projet ?", "choix": ["Rechercher les informations et données pertinentes", "Établir le mandat", "Déterminer la solution", "Concevoir la solution"], "reponse": 1, "explication": "Ordre : établir le mandat → rechercher les données → déterminer → concevoir → surveiller la mise en œuvre → soutenir l'exploitation." },
-    { "section": "1.2", "question": "« Attester la conformité » et « désaffecter et démanteler » appartiennent à quel champ de compétences ?", "choix": ["Surveiller la mise en œuvre", "Soutenir l'exploitation", "Concevoir la solution", "Agir professionnellement"], "reponse": 1, "explication": "Soutenir l'exploitation : superviser, entretenir, attester la conformité, gérer les risques en continu, désaffecter et démanteler." },
-    { "section": "1.2", "question": "Pour quels domaines l'Ordre développe-t-il des profils de compétences ?", "choix": ["Pour tous les domaines de génie", "Pour certains domaines de pratique jugés à risque", "Uniquement pour le génie civil", "Uniquement pour les CPI"], "reponse": 1, "explication": "Des profils spécifiques sont développés pour certains domaines de pratique jugés à risque." },
-    { "section": "1.2", "question": "Quelle est la bonne séquence du cycle annuel de gestion du développement des compétences ?", "choix": ["Évaluer, former, déclarer", "Planifier, effectuer le suivi, faire le bilan", "Planifier, déclarer, faire approuver", "Former, appliquer, réviser"], "reponse": 1, "explication": "Les 3 étapes : planifier le développement de ses compétences, effectuer le suivi de son plan, faire le bilan de ses activités." },
-    { "section": "1.2", "question": "Combien de compétences recommande-t-on de retenir par période de référence ?", "choix": ["Une seule", "De deux à trois", "De cinq à six", "Autant que nécessaire"], "reponse": 1, "explication": "Retenir de deux à trois compétences à développer par période de référence." },
-    { "section": "1.2", "question": "Dans SMART, que signifie le « T » ?", "choix": ["Technique", "Transférable", "Temporellement défini", "Testé"], "reponse": 2, "explication": "Spécifique, Mesurable, Atteignable, Réaliste, Temporellement défini (date)." },
-    { "section": "1.2", "question": "Lequel N'EST PAS un des 3 éléments d'un objectif de développement de compétences ?", "choix": ["La connaissance requise", "Le niveau d'habileté", "Les conditions d'application", "Le coût de la formation"], "reponse": 3, "explication": "Les 3 éléments : connaissance requise, niveau d'habileté qui s'y rapporte, conditions d'application." },
-    { "section": "1.2", "question": "Quel est le moyen à privilégier dans le développement des compétences ?", "choix": ["Les cours universitaires", "L'expérience de travail", "Les conférences", "L'autoapprentissage"], "reponse": 1, "explication": "L'expérience de travail, bonifiée par l'acquisition de connaissances de base et la rétroaction en continu." },
-    { "section": "1.2", "question": "Parmi ces activités, laquelle est admissible en formation continue ?", "choix": ["Relever des défis dans son poste actuel", "Réaliser un projet spécial", "Participer à un groupe de co-développement", "Prendre en charge de nouvelles tâches"], "reponse": 2, "explication": "Côté rétroaction, le coaching et le groupe de co-développement sont admissibles; l'expérience de travail elle-même ne l'est pas." },
-    { "section": "1.2", "question": "Quelle étape du cycle annuel est souvent négligée, alors qu'elle assure la cohérence du développement ?", "choix": ["La planification", "Le suivi du plan", "Le bilan des activités", "L'approbation du plan"], "reponse": 2, "explication": "Le bilan est souvent négligé, mais il contribue à la cohérence du développement des compétences." },
-    { "section": "1.2", "question": "Quels 3 aspects considérer pour évaluer sa situation actuelle ?", "choix": ["Salaire, ancienneté, titre", "Performance professionnelle, environnement professionnel, objectifs de carrière", "Diplôme, permis, assurance", "Clients, fournisseurs, employeur"], "reponse": 1, "explication": "Performance professionnelle, environnement professionnel et objectifs de carrière." },
-    { "section": "1.2", "question": "Vrai ou faux : le contenu d'une formation continue doit obligatoirement être technique.", "choix": ["Vrai", "Faux"], "reponse": 1, "explication": "Faux. Le contenu peut porter sur des aspects techniques ou d'autres aspects : droit, gestion, éthique, communications." }
+    {
+      "section": "1.1",
+      "question": "Un nouvel ordre professionnel est créé au Québec. Quelle loi-cadre définira les pouvoirs et devoirs communs à tous les ordres, y compris celui-ci ?",
+      "choix": [
+        "La Loi sur les ingénieurs",
+        "Le Code des professions",
+        "Le Code civil du Québec",
+        "La Charte de la langue française"
+      ],
+      "reponse": 1,
+      "explication": "Le Code des professions est la loi-cadre du système professionnel : il précise le mandat, les responsabilités, la structure et le fonctionnement de ses acteurs, et prévoit des sanctions pour l'exercice illégal et l'usurpation de titre."
+    },
+    {
+      "section": "1.1",
+      "question": "Lors d'un débat, un collègue affirme que le système professionnel québécois repose d'abord sur la défense des intérêts des membres. Quel est en réalité l'axe fondamental de ce système ?",
+      "choix": [
+        "La défense des intérêts économiques des professionnels",
+        "La protection du public",
+        "La libre concurrence entre professionnels",
+        "La promotion des professions auprès des employeurs"
+      ],
+      "reponse": 1,
+      "explication": "Le système professionnel s'articule autour de la protection du public et s'appuie sur l'autogestion, la déontologie, la compétence, la responsabilité professionnelle et le jugement par les pairs."
+    },
+    {
+      "section": "1.1",
+      "question": "Le système professionnel québécois s'appuie sur 5 principes de base. Lequel N'EN FAIT PAS partie ?",
+      "choix": [
+        "L'autogestion",
+        "Le jugement par les pairs",
+        "La libre concurrence",
+        "La responsabilité professionnelle"
+      ],
+      "reponse": 2,
+      "explication": "Les 5 principes : autogestion, déontologie, compétence, responsabilité professionnelle et jugement par les pairs."
+    },
+    {
+      "section": "1.1",
+      "question": "Un étudiant énumère les acteurs du système professionnel québécois. Lequel de ces organismes N'EN FAIT PAS partie ?",
+      "choix": [
+        "L'Office des professions du Québec",
+        "Le Conseil interprofessionnel du Québec",
+        "Le Tribunal des professions",
+        "La Cour supérieure du Québec"
+      ],
+      "reponse": 3,
+      "explication": "Les 5 acteurs : le gouvernement (ministre responsable), le Tribunal des professions, l'Office des professions, le Conseil interprofessionnel et les ordres professionnels."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ordre professionnel est en crise grave et ne remplit plus sa mission. Quel acteur du système professionnel peut décider de le placer sous tutelle ?",
+      "choix": [
+        "Le Conseil interprofessionnel du Québec",
+        "Le gouvernement",
+        "Le Tribunal des professions",
+        "Le conseil d'administration de l'ordre lui-même"
+      ],
+      "reponse": 1,
+      "explication": "Dans son rôle de surveillance et de contrôle, le gouvernement peut placer sous tutelle tout ordre, approuver certains de ses règlements ou les adopter et modifier à sa place."
+    },
+    {
+      "section": "1.1",
+      "question": "L'OIQ adopte une mise à jour de son Code de déontologie des ingénieurs. Selon le guide, quel acteur doit approuver ce type de règlement pour qu'il entre en vigueur ?",
+      "choix": [
+        "Le gouvernement",
+        "Le Tribunal des professions",
+        "Le Conseil interprofessionnel",
+        "Les membres de l'Ordre par référendum"
+      ],
+      "reponse": 0,
+      "explication": "Le gouvernement approuve certains règlements adoptés par les ordres, notamment le Code de déontologie des ingénieurs. (L'approbation de l'Office est aussi nécessaire pour plusieurs règlements.)"
+    },
+    {
+      "section": "1.1",
+      "question": "Une université crée un nouveau programme de génie et veut qu'il donne accès au permis d'ingénieur. Qui détermine, par règlement, les diplômes donnant ouverture à un permis ?",
+      "choix": [
+        "L'Ordre des ingénieurs seul",
+        "Les universités elles-mêmes",
+        "Le gouvernement, après consultation de l'Office des professions et de l'ordre concerné",
+        "Le Conseil interprofessionnel"
+      ],
+      "reponse": 2,
+      "explication": "Le gouvernement détermine par règlement les diplômes donnant ouverture à un permis ou à un certificat de spécialiste, après consultation de l'Office et de l'ordre concerné."
+    },
+    {
+      "section": "1.1",
+      "question": "Le Code des professions est appliqué par le ministre responsable des lois professionnelles, sauf pour une partie. À qui revient l'application des dispositions relatives au Tribunal des professions ?",
+      "choix": [
+        "Au ministre responsable de l'application des lois professionnelles",
+        "Au ministre de la Justice",
+        "Au président de l'Office des professions",
+        "Au juge en chef de la Cour du Québec"
+      ],
+      "reponse": 1,
+      "explication": "C'est au ou à la ministre de la Justice que revient l'application des dispositions du Code relatives au Tribunal des professions."
+    },
+    {
+      "section": "1.1",
+      "question": "Chaque année, l'OIQ prépare son rapport d'activités incluant le nombre de permis délivrés et ses états financiers. À qui le soumet-il ?",
+      "choix": [
+        "Au Tribunal des professions",
+        "Au ministre responsable et à l'Office des professions",
+        "Au Conseil interprofessionnel seulement",
+        "À la Cour du Québec"
+      ],
+      "reponse": 1,
+      "explication": "Les ordres soumettent leur rapport au ministre responsable et à l'Office; le ministre reçoit et dépose annuellement les rapports devant l'Assemblée nationale."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ingénieur reconnu coupable par le conseil de discipline de l'OIQ veut contester la décision. Quelle instance, composée de 11 juges de la Cour du Québec, entend l'appel ?",
+      "choix": [
+        "La Cour supérieure",
+        "Le Tribunal des professions",
+        "Le comité de révision",
+        "L'Office des professions"
+      ],
+      "reponse": 1,
+      "explication": "Le Tribunal des professions est l'instance d'appel spécialisée en matière professionnelle (disciplinaire et administrative), composée de 11 juges de la Cour du Québec."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ordre professionnel est en situation financière déficitaire. L'Office des professions décide d'enquêter et d'exiger des mesures correctives. Quelle fonction de l'Office exerce-t-il ?",
+      "choix": [
+        "Sa fonction juridique",
+        "Sa fonction de conseil",
+        "Sa fonction de surveillance",
+        "Sa fonction disciplinaire"
+      ],
+      "reponse": 2,
+      "explication": "La fonction de surveillance comprend : examiner les règlements, enquêter (situation déficitaire, devoirs non remplis), exiger documents et mesures correctives."
+    },
+    {
+      "section": "1.1",
+      "question": "L'Office des professions adopte un règlement sur les normes d'éthique et de déontologie applicables aux administrateurs d'un ordre. Quelle fonction de l'Office est en jeu ?",
+      "choix": [
+        "La fonction juridique",
+        "La fonction de surveillance",
+        "La fonction de conseil",
+        "Aucune, c'est le rôle du Conseil interprofessionnel"
+      ],
+      "reponse": 0,
+      "explication": "La fonction juridique comprend le soutien technique, la suggestion de modifications législatives et l'adoption de règlements (tableau, rapport annuel, éthique des administrateurs)."
+    },
+    {
+      "section": "1.1",
+      "question": "L'Office des professions formule à un établissement d'enseignement des recommandations sur l'accès à une profession. Quelle fonction exerce-t-il ?",
+      "choix": [
+        "Fonction de surveillance",
+        "Fonction juridique",
+        "Fonction de conseil",
+        "Fonction d'arbitrage"
+      ],
+      "reponse": 2,
+      "explication": "La fonction de conseil consiste à formuler des recommandations en matière d'accès à la profession à un ministre, un organisme, un ordre ou un établissement d'enseignement."
+    },
+    {
+      "section": "1.1",
+      "question": "Un groupe de technologues souhaite être reconnu comme nouvel ordre professionnel. Quel organisme, formé de représentants de tous les ordres, peut entendre ce groupe ?",
+      "choix": [
+        "Le Tribunal des professions",
+        "Le Conseil interprofessionnel du Québec",
+        "Le comité exécutif de l'OIQ",
+        "L'Assemblée nationale directement"
+      ],
+      "reponse": 1,
+      "explication": "Le Conseil interprofessionnel peut notamment entendre un groupe désirant être reconnu comme ordre, étudier les problèmes des ordres et suggérer des modifications législatives."
+    },
+    {
+      "section": "1.1",
+      "question": "Selon le principe d'autorégulation, les ordres doivent s'autogérer et s'autodiscipliner. « Le consentement des membres à s'imposer des règles d'éthique communes et à les faire respecter » correspond à :",
+      "choix": [
+        "L'autorégulation",
+        "L'autogestion",
+        "L'autodiscipline",
+        "Le jugement par les pairs"
+      ],
+      "reponse": 2,
+      "explication": "C'est l'autodiscipline. L'autogestion est la surveillance de l'exercice par l'ordre, la qualité étant évaluée par des pairs; l'autorégulation est le fonctionnement sans intervention extérieure."
+    },
+    {
+      "section": "1.1",
+      "question": "À l'OIQ, la qualité des services d'un ingénieur est évaluée par d'autres ingénieurs lors d'une inspection. Quel principe de fonctionnement des ordres cela illustre-t-il ?",
+      "choix": [
+        "L'autogestion",
+        "L'autodiscipline",
+        "La tutelle",
+        "L'arbitrage"
+      ],
+      "reponse": 0,
+      "explication": "L'autogestion : surveillance de l'exercice de la profession par l'ordre désigné, la qualité étant évaluée par des personnes compétentes, des pairs."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ordre professionnel a 6 principales responsabilités selon le guide. Laquelle N'EN FAIT PAS partie ?",
+      "choix": [
+        "Gérer le processus disciplinaire",
+        "Produire un rapport annuel",
+        "Négocier les salaires de ses membres",
+        "Contrôler l'exercice illégal et l'usurpation de titre"
+      ],
+      "reponse": 2,
+      "explication": "Les 6 responsabilités : compétence et intégrité des membres, surveillance de l'exercice, discipline, développement de la profession, exercice illégal et usurpation, rapport annuel."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ingénieur et un architecte peuvent tous deux, selon leurs lois respectives, exercer une même activité réservée. Comment qualifie-t-on cette activité ?",
+      "choix": [
+        "Une activité autorisée",
+        "Une activité partagée",
+        "Une activité exclusive",
+        "Une activité déléguée"
+      ],
+      "reponse": 1,
+      "explication": "Une activité réservée est « partagée » lorsque des membres d'ordres professionnels différents peuvent l'exercer."
+    },
+    {
+      "section": "1.1",
+      "question": "Un règlement de l'OIQ permet à certains non-ingénieurs d'exercer une activité normalement réservée aux ingénieurs. Comment qualifie-t-on cette activité ?",
+      "choix": [
+        "Une activité partagée",
+        "Une activité tolérée",
+        "Une activité autorisée",
+        "Une activité déréglementée"
+      ],
+      "reponse": 2,
+      "explication": "Une activité réservée est « autorisée » si, en vertu d'un règlement de l'ordre, d'autres personnes peuvent l'exercer."
+    },
+    {
+      "section": "1.1",
+      "question": "Le CA d'un ordre veut déclarer « réservée » une activité qu'il juge risquée, par simple résolution. Le peut-il ?",
+      "choix": [
+        "Oui, par résolution du CA",
+        "Non, une activité n'est réservée que si la loi le prévoit",
+        "Oui, si l'activité présente un risque",
+        "Oui, avec l'accord de la majorité des membres"
+      ],
+      "reponse": 1,
+      "explication": "Une activité n'est réservée que si la loi le prévoit."
+    },
+    {
+      "section": "1.1",
+      "question": "Le conseil d'administration de l'OIQ compte un président, des administrateurs élus et des administrateurs nommés. Combien sont nommés par l'Office des professions ?",
+      "choix": [
+        "2",
+        "4",
+        "11",
+        "15"
+      ],
+      "reponse": 1,
+      "explication": "Le CA : un.e président.e, 11 administrateurs élus par les membres et 4 nommés par l'Office des professions."
+    },
+    {
+      "section": "1.1",
+      "question": "Combien d'administrateurs du CA de l'OIQ sont élus par les membres, en plus du président ?",
+      "choix": [
+        "4",
+        "9",
+        "11",
+        "15"
+      ],
+      "reponse": 2,
+      "explication": "11 administrateurs.trices sont élu.e.s par les membres; 4 sont nommé.e.s par l'Office."
+    },
+    {
+      "section": "1.1",
+      "question": "Une enquête confirme qu'une personne non membre se présente comme « ingénieur ». Quel comité de l'OIQ autorise les poursuites pénales pour exercice illégal et usurpation de titre ?",
+      "choix": [
+        "Le conseil de discipline",
+        "Le comité exécutif",
+        "Le comité d'inspection professionnelle",
+        "Le comité de révision"
+      ],
+      "reponse": 1,
+      "explication": "Le comité exécutif rend des décisions administratives et autorise les poursuites pénales en exercice illégal et en usurpation de titre."
+    },
+    {
+      "section": "1.1",
+      "question": "Une ingénieure formée en France demande son permis au Québec. Quel comité de l'OIQ délivre les permis et évalue la formation des personnes formées à l'étranger ?",
+      "choix": [
+        "Le comité d'accès à la profession",
+        "Le comité de la formation des ingénieurs",
+        "Le comité d'admission à l'exercice",
+        "Le comité exécutif"
+      ],
+      "reponse": 2,
+      "explication": "Le comité d'admission à l'exercice délivre les permis et évalue la formation des personnes formées à l'étranger."
+    },
+    {
+      "section": "1.1",
+      "question": "Un CPI termine son parcours d'expériences et attend l'évaluation de son dossier. Quel comité de l'OIQ évalue les candidats à la profession d'ingénieur ?",
+      "choix": [
+        "Le comité d'accès à la profession",
+        "Le comité d'admission à l'exercice",
+        "Le comité de développement professionnel",
+        "Le comité de liaison CODIQ-OIQ-CRÉIQ"
+      ],
+      "reponse": 0,
+      "explication": "Le comité d'accès à la profession évalue les CPI."
+    },
+    {
+      "section": "1.1",
+      "question": "Une faculté modifie le contenu de son baccalauréat en génie mécanique. Quel comité de l'OIQ examine le contenu des programmes universitaires de premier cycle en génie ?",
+      "choix": [
+        "Le comité d'admission à l'exercice",
+        "Le comité de la formation des ingénieurs",
+        "Le comité de développement professionnel",
+        "Le comité de liaison CODIQ-OIQ-CRÉIQ"
+      ],
+      "reponse": 1,
+      "explication": "C'est le rôle du comité de la formation des ingénieurs."
+    },
+    {
+      "section": "1.1",
+      "question": "L'OIQ veut vérifier la compétence des ingénieurs qui conçoivent des équipements de levage. Quel comité surveille l'exercice de la profession et vérifie la compétence des membres ?",
+      "choix": [
+        "Le comité d'inspection professionnelle",
+        "Le conseil de discipline",
+        "Le comité d'audit",
+        "Le comité de développement professionnel"
+      ],
+      "reponse": 0,
+      "explication": "Le comité d'inspection professionnelle surveille l'exercice et vérifie la compétence professionnelle des membres."
+    },
+    {
+      "section": "1.1",
+      "question": "Un client conteste le compte d'honoraires de son ingénieur. Une conciliation a été tentée, sans entente. Quelle instance de l'OIQ procède alors à l'arbitrage du compte ?",
+      "choix": [
+        "Le conseil de discipline",
+        "Le comité de révision",
+        "Le conseil d'arbitrage",
+        "Le Tribunal des professions"
+      ],
+      "reponse": 2,
+      "explication": "Le conseil d'arbitrage procède à l'arbitrage d'un compte d'ingénieur lorsque la conciliation n'a pas donné lieu à une entente."
+    },
+    {
+      "section": "1.1",
+      "question": "Une citoyenne a signalé un ingénieur, mais le syndic décide de ne pas porter plainte. Quel comité de l'OIQ peut rendre un avis sur cette décision ?",
+      "choix": [
+        "Le comité de révision",
+        "Le conseil de discipline",
+        "Le comité exécutif",
+        "Le comité d'enquête à l'éthique et à la déontologie"
+      ],
+      "reponse": 0,
+      "explication": "Le comité de révision rend un avis sur la décision d'un syndic de ne pas porter plainte contre un membre."
+    },
+    {
+      "section": "1.1",
+      "question": "On soupçonne un administrateur élu de l'OIQ d'un manquement à l'éthique dans l'exercice de ses fonctions au CA. Quel comité enquête sur la conduite des administrateurs ?",
+      "choix": [
+        "Le comité de gouvernance et d'éthique",
+        "Le comité d'enquête à l'éthique et à la déontologie",
+        "Le conseil de discipline",
+        "Le comité d'audit"
+      ],
+      "reponse": 1,
+      "explication": "Le comité d'enquête à l'éthique et à la déontologie enquête sur la conduite des administrateurs et recommande une sanction le cas échéant. Le comité de gouvernance et d'éthique, lui, conseille le CA sur ses politiques."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ingénieur commet une infraction déontologique en 2022, puis démissionne de l'Ordre en 2023. Le conseil de discipline peut-il encore entendre une plainte contre lui ?",
+      "choix": [
+        "Non, il n'est plus membre",
+        "Oui, le conseil décide des plaintes contre une personne pour une infraction commise alors qu'elle était membre",
+        "Seulement si l'infraction date de moins d'un an",
+        "Seulement s'il se réinscrit"
+      ],
+      "reponse": 1,
+      "explication": "Le conseil de discipline décide d'une plainte formulée contre une personne alors qu'elle était membre de l'Ordre."
+    },
+    {
+      "section": "1.1",
+      "question": "Dans le mécanisme de contrôle disciplinaire de l'OIQ, qui enquête sur les infractions et qui sanctionne en première instance ?",
+      "choix": [
+        "Le CIP enquête; le Tribunal des professions sanctionne",
+        "Les syndics enquêtent; le conseil de discipline sanctionne",
+        "Le comité exécutif enquête; le CA sanctionne",
+        "La police enquête; la Cour du Québec sanctionne"
+      ],
+      "reponse": 1,
+      "explication": "Contrôle disciplinaire : enquête par les syndics, sanction par le conseil de discipline en première instance."
+    },
+    {
+      "section": "1.1",
+      "question": "L'OIQ dispose de 5 mécanismes de contrôle de l'exercice de la profession, qui reposent sur la protection du public. Lequel N'EN FAIT PAS partie ?",
+      "choix": [
+        "La surveillance de la pratique illégale",
+        "Le contrôle disciplinaire",
+        "La négociation collective",
+        "Le développement professionnel"
+      ],
+      "reponse": 2,
+      "explication": "Les 5 mécanismes : accès à la profession (admission), surveillance de l'exercice, contrôle disciplinaire, développement professionnel, surveillance de la pratique illégale."
+    },
+    {
+      "section": "1.1",
+      "question": "L'OIQ reconnaît les équivalences de diplômes, gère le programme d'accès à la profession et délivre les permis. De quel mécanisme de contrôle s'agit-il ?",
+      "choix": [
+        "Surveillance de l'exercice",
+        "Accès à la profession (admission)",
+        "Développement professionnel",
+        "Contrôle disciplinaire"
+      ],
+      "reponse": 1,
+      "explication": "Le mécanisme d'accès à la profession comprend les équivalences, le programme d'accès, l'intégration des compétences et la délivrance des permis."
+    },
+    {
+      "section": "1.1",
+      "question": "Une ingénieure vient d'obtenir son permis. Laquelle de ces obligations N'EST PAS une obligation administrative de l'ingénieur selon le guide ?",
+      "choix": [
+        "Payer annuellement sa cotisation professionnelle",
+        "Avoir une assurance responsabilité professionnelle adéquate",
+        "Déclarer ses condamnations pénales et disciplinaires",
+        "Être membre d'une association technique de son domaine"
+      ],
+      "reponse": 3,
+      "explication": "Obligations : cotisation, assurance, suivre et déclarer sa formation, signaler une usurpation du titre, déclarer ses condamnations."
+    },
+    {
+      "section": "1.1",
+      "question": "Le Code des professions prévoit que les membres participent à la gouvernance de leur ordre. Lequel de ces gestes en est un exemple ?",
+      "choix": [
+        "Approuver la rémunération des administrateurs élus",
+        "Fixer le montant des amendes disciplinaires",
+        "Nommer les juges du Tribunal des professions",
+        "Délivrer les permis"
+      ],
+      "reponse": 0,
+      "explication": "Exemples : nommer les vérificateurs des livres et comptes, approuver la rémunération des administrateurs élus, contribuer aux consultations."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ingénieur expérimenté accepte d'être superviseur de CPI et de participer comme expert à un débat public. Quelles manifestations de l'engagement social illustre-t-il ?",
+      "choix": [
+        "Payer sa cotisation et s'assurer",
+        "Partager ses connaissances et mettre ses compétences au service de la société",
+        "Exercer un leadership négatif",
+        "Déclarer sa formation continue"
+      ],
+      "reponse": 1,
+      "explication": "Engagement social : partager ses connaissances, exercer un leadership positif, mettre ses compétences au service de la société, agir selon le développement durable."
+    },
+    {
+      "section": "1.1",
+      "question": "La définition du développement durable utilisée par l'OIQ (« répondre aux besoins du présent sans compromettre ceux des générations futures ») vient du Rapport Brundtland. En quelle année a-t-il été publié ?",
+      "choix": [
+        "1972",
+        "1987",
+        "1992",
+        "2004"
+      ],
+      "reponse": 1,
+      "explication": "Le rapport « Notre avenir à tous » (Rapport Brundtland) a été publié en 1987 par la Commission mondiale sur l'environnement et le développement de l'ONU."
+    },
+    {
+      "section": "1.1",
+      "question": "Depuis quelle année la Loi sur le développement durable du Québec engage-t-elle le gouvernement à adopter une stratégie globale de développement durable ?",
+      "choix": [
+        "1987",
+        "1994",
+        "2004",
+        "2015"
+      ],
+      "reponse": 2,
+      "explication": "Depuis 2004; elle instaure des principes pour l'administration publique et s'applique à tous les secteurs par d'autres lois qui en découlent."
+    },
+    {
+      "section": "1.1",
+      "question": "L'OIQ appuie ses interventions en développement durable sur 3 principes. Lequel N'EN FAIT PAS partie ?",
+      "choix": [
+        "Viser l'amélioration continue",
+        "Miser sur la collaboration",
+        "Soutenir l'innovation et la rigueur scientifique",
+        "Prioriser la rentabilité à court terme"
+      ],
+      "reponse": 3,
+      "explication": "Les 3 principes : amélioration continue, collaboration, innovation et rigueur scientifique."
+    },
+    {
+      "section": "1.1",
+      "question": "Dans le schéma des 3 dimensions du développement durable, un projet qui concilie les dimensions environnementale et économique (sans le social) est qualifié de :",
+      "choix": [
+        "Vivable",
+        "Viable",
+        "Équitable",
+        "Durable"
+      ],
+      "reponse": 1,
+      "explication": "Environnement + économie = Viable; environnement + social = Vivable; social + économie = Équitable; les trois = Durable."
+    },
+    {
+      "section": "1.1",
+      "question": "Dans le même schéma, un projet qui concilie les dimensions sociale et économique (sans l'environnement) est qualifié de :",
+      "choix": [
+        "Équitable",
+        "Vivable",
+        "Viable",
+        "Responsable"
+      ],
+      "reponse": 0,
+      "explication": "Social + économique = Équitable."
+    },
+    {
+      "section": "1.1",
+      "question": "Un ingénieur calcule, pour un projet d'usine, le coût global de tous ses impacts sur la société et l'environnement pendant tout son cycle de vie. Quel principe économique du développement durable applique-t-il ?",
+      "choix": [
+        "L'éco-efficience",
+        "Le pollueur-payeur",
+        "L'internalisation des coûts",
+        "La production responsable"
+      ],
+      "reponse": 2,
+      "explication": "L'internalisation des coûts intègre le coût global et réel des impacts (positifs ou négatifs) tout au long du cycle de vie."
+    },
+    {
+      "section": "1.1",
+      "question": "Une entreprise qui pollue une rivière doit assumer les coûts de prévention, de réduction et de contrôle de ses rejets. Quel principe du développement durable s'applique ?",
+      "choix": [
+        "L'internalisation des coûts",
+        "Le pollueur-payeur",
+        "L'éco-conception",
+        "L'économie circulaire"
+      ],
+      "reponse": 1,
+      "explication": "Selon le principe pollueur-payeur, ceux qui dégradent l'environnement assument les coûts des mesures de prévention, de réduction et de contrôle."
+    },
+    {
+      "section": "1.1",
+      "question": "La dimension sociale du développement durable repose sur 5 principes. Lequel N'EN FAIT PAS partie ?",
+      "choix": [
+        "L'accès au savoir",
+        "La protection du patrimoine culturel",
+        "La participation et l'engagement",
+        "La croissance du PIB"
+      ],
+      "reponse": 3,
+      "explication": "Les 5 principes : santé et qualité de vie, équité et solidarité sociales, participation et engagement, accès au savoir, protection du patrimoine culturel."
+    },
+    {
+      "section": "1.1",
+      "question": "Un manufacturier veut adopter l'économie circulaire. Lequel de ces objectifs est CONTRAIRE à cette approche ?",
+      "choix": [
+        "Favoriser une circulation en boucle des matières",
+        "Allonger la durée de vie des produits",
+        "Intensifier l'utilisation des produits",
+        "Accélérer le remplacement des produits"
+      ],
+      "reponse": 3,
+      "explication": "L'économie circulaire vise à réduire la consommation de ressources, boucler les matières, intensifier l'utilisation et allonger la durée de vie."
+    },
+    {
+      "section": "1.1",
+      "question": "Une équipe applique l'éco-conception à un nouveau produit et cherche à respecter les « 3RV ». Que désignent-ils ?",
+      "choix": [
+        "Réduire, Réparer, Revendre, Valoriser",
+        "Réduction à la source, Réemploi, Recyclage, Valorisation",
+        "Recherche, Réalisation, Révision, Validation",
+        "Réemploi, Rénovation, Recyclage, Vérification"
+      ],
+      "reponse": 1,
+      "explication": "3RV : Réduction à la source, Réemploi, Recyclage et Valorisation."
+    },
+    {
+      "section": "1.1",
+      "question": "Pour choisir entre deux matériaux de structure, un ingénieur veut mesurer les répercussions de chacun à toutes les étapes de leur vie. Quelle méthodologie utilise-t-il ?",
+      "choix": [
+        "L'analyse de cycle de vie (ACV)",
+        "L'analyse coûts-bénéfices",
+        "L'analyse de risques",
+        "La revue technologique"
+      ],
+      "reponse": 0,
+      "explication": "L'ACV permet d'évaluer les répercussions d'un projet aux différents moments de son cycle de vie et de faire des choix éclairés de matériaux et de pratiques."
+    },
+    {
+      "section": "1.2",
+      "question": "Selon l'article 1 du Règlement sur la formation continue obligatoire des ingénieurs, combien d'heures un ingénieur doit-il cumuler, et sur quelle période ?",
+      "choix": [
+        "20 heures par année",
+        "Au moins 30 heures sur une période de référence de 2 ans",
+        "30 heures par année",
+        "40 heures sur 3 ans"
+      ],
+      "reponse": 1,
+      "explication": "Au moins 30 heures au cours d'une période de référence de 2 ans, à moins d'une dispense (section IV)."
+    },
+    {
+      "section": "1.2",
+      "question": "La période de référence de formation continue d'un ingénieur se termine le 31 mars. Selon l'article 7 du Règlement, au plus tard quand doit-il transmettre sa déclaration ?",
+      "choix": [
+        "Le 31 mars",
+        "Le 1er avril",
+        "Le 15 avril qui suit la fin de la période",
+        "Le 30 juin"
+      ],
+      "reponse": 2,
+      "explication": "Au plus tard le 15 avril qui suit la fin de chaque période de référence, sur le formulaire prévu (portail des membres)."
+    },
+    {
+      "section": "1.2",
+      "question": "Une ingénieure a déclaré ses heures de formation pour la période terminée. Selon l'article 8 du Règlement, combien de temps doit-elle conserver ses pièces justificatives ?",
+      "choix": [
+        "1 an après chaque activité",
+        "2 ans suivant la fin de la période de référence",
+        "5 ans",
+        "10 ans"
+      ],
+      "reponse": 1,
+      "explication": "Pendant 2 ans suivant la fin de la période de référence à laquelle elles se rapportent."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur assiste à un webinaire structuré de 20 minutes sur les nouvelles normes parasismiques. Peut-il le déclarer comme formation continue admissible ?",
+      "choix": [
+        "Oui, tout webinaire compte",
+        "Non, la durée minimale d'une formation admissible est de 30 minutes",
+        "Oui, s'il obtient une attestation",
+        "Oui, s'il est donné par l'Ordre"
+      ],
+      "reponse": 1,
+      "explication": "Parmi les 6 critères d'admissibilité : une durée minimale de 30 minutes."
+    },
+    {
+      "section": "1.2",
+      "question": "Une ingénieure prépare son plan de développement professionnel pour la période. Selon l'article 3 du Règlement, pour combien d'heures au maximum cette préparation est-elle reconnue ?",
+      "choix": [
+        "30 minutes",
+        "1 heure",
+        "3 heures",
+        "Elle n'est pas reconnue"
+      ],
+      "reponse": 1,
+      "explication": "La préparation du plan est admissible jusqu'à concurrence d'une (1) heure de formation continue."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur redonne une conférence qu'il a déjà présentée l'an dernier, en n'ayant modifié que 20 % du contenu. Son activité de formateur est-elle admissible ?",
+      "choix": [
+        "Oui, chaque présentation compte",
+        "Non, elle n'est admissible qu'à la première présentation ou après modification d'au moins 50 % du contenu",
+        "Oui, si le public est différent",
+        "Oui, à moitié"
+      ],
+      "reponse": 1,
+      "explication": "L'activité de formateur doit permettre d'acquérir de nouvelles connaissances : première présentation ou contenu modifié à au moins 50 %."
+    },
+    {
+      "section": "1.2",
+      "question": "Un fournisseur invite des ingénieurs à une présentation très technique sur sa nouvelle pompe, dans le but de la vendre. Cette activité est-elle admissible en formation continue ?",
+      "choix": [
+        "Oui, elle est très technique",
+        "Non, une présentation technique de vente poursuit d'abord un objectif de mise en marché",
+        "Oui, si elle dure plus de 30 minutes",
+        "Oui, si le fournisseur remet une attestation"
+      ],
+      "reponse": 1,
+      "explication": "Les présentations techniques de vente sont non admissibles, malgré leur contenu technique."
+    },
+    {
+      "section": "1.2",
+      "question": "Lors des réunions de coordination de son projet, une ingénieure apprend beaucoup sur une nouvelle technologie. Peut-elle déclarer ces réunions en formation continue ?",
+      "choix": [
+        "Oui, si elle a appris quelque chose",
+        "Non, les activités dans le cadre du travail poursuivent d'abord un objectif lié à la conduite du projet ou aux opérations",
+        "Oui, si elle prend des notes",
+        "Oui, jusqu'à 5 heures"
+      ],
+      "reponse": 1,
+      "explication": "Même riches en apprentissages, les activités dans le cadre du travail ne sont pas admissibles."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur a rédigé un article technique sur la corrosion, mais la revue l'a refusé et il ne sera pas publié. Peut-il déclarer la rédaction comme formation continue ?",
+      "choix": [
+        "Oui, l'effort compte",
+        "Non, la rédaction n'est admissible que dans la mesure où l'article ou l'ouvrage est publié",
+        "Oui, s'il le met sur son blogue",
+        "Oui, s'il a plus de 10 pages"
+      ],
+      "reponse": 1,
+      "explication": "La rédaction d'un article ou d'un ouvrage est admissible dans la mesure où celui-ci est publié."
+    },
+    {
+      "section": "1.2",
+      "question": "Une ingénieure organise une conférence pour ses collègues sur le génie parasismique. Selon le Règlement, quelle exigence particulière la conférence doit-elle respecter pour être admissible pour les participants ?",
+      "choix": [
+        "Être donnée par un ingénieur",
+        "Être structurée et prévoir au moins une période de questions",
+        "Durer au moins 3 heures",
+        "Comporter un examen final"
+      ],
+      "reponse": 1,
+      "explication": "La conférence doit être structurée (objectifs, contenu) et prévoir au moins une période de questions. Ex. : présentation orale, visite industrielle."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur étudie seul pour passer un examen de certification en gestion de projet. Dans quelle catégorie d'activité admissible ces études s'inscrivent-elles ?",
+      "choix": [
+        "Autoapprentissage",
+        "Participation à des cours",
+        "Activité non admissible",
+        "Séminaire"
+      ],
+      "reponse": 1,
+      "explication": "Les études personnelles en vue d'un examen de certification figurent parmi les exemples de « participation à des cours »."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur suit une formation en ligne offerte par une firme privée (non par l'Ordre). Lequel de ces critères N'EST PAS exigé pour qu'elle soit admissible ?",
+      "choix": [
+        "Être structurée en objectifs d'apprentissage et contenu",
+        "Avoir été réussie ou, faute d'évaluation, suivie",
+        "Être offerte par l'Ordre des ingénieurs",
+        "Être en lien avec ses activités professionnelles actuelles ou futures"
+      ],
+      "reponse": 2,
+      "explication": "Il n'est pas exigé que la formation soit offerte par l'Ordre. Les 6 critères : type admissible, contenu lié aux compétences, lien avec la pratique, structure, 30 minutes minimum, réussite ou participation."
+    },
+    {
+      "section": "1.2",
+      "question": "Une ingénieure en structure suit un cours de négociation et de communication. Ce contenu peut-il compter en formation continue ?",
+      "choix": [
+        "Non, seul le contenu technique compte",
+        "Oui, le contenu peut porter sur des aspects non techniques comme le droit, la gestion, l'éthique ou les communications",
+        "Seulement s'il dure plus de 10 heures",
+        "Seulement avec l'accord de son employeur"
+      ],
+      "reponse": 1,
+      "explication": "Le contenu doit développer des compétences pertinentes à la profession; il peut être technique ou porter sur le droit, la gestion, l'éthique, les communications."
+    },
+    {
+      "section": "1.2",
+      "question": "À la suite d'une réforme réglementaire, l'OIQ impose à tous les ingénieurs en structure une formation sur un nouveau sujet. Selon l'article 5 du Règlement, qui peut imposer une telle formation particulière ?",
+      "choix": [
+        "Le syndic",
+        "Le Conseil d'administration de l'Ordre",
+        "L'Office des professions",
+        "L'employeur"
+      ],
+      "reponse": 1,
+      "explication": "Le CA peut imposer à tous ou à certains ingénieurs une formation particulière, notamment en raison d'une réforme législative ou réglementaire, d'un changement ou de lacunes."
+    },
+    {
+      "section": "1.2",
+      "question": "L'Ordre refuse de reconnaître une activité qu'un ingénieur a déclarée. Selon l'article 10 du Règlement, dans quel délai peut-il demander une révision ?",
+      "choix": [
+        "15 jours de la réception de la décision",
+        "30 jours",
+        "60 jours",
+        "90 jours"
+      ],
+      "reponse": 0,
+      "explication": "L'ingénieur peut demander la révision dans les 15 jours de la réception de la décision rendue en application de l'article 9."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur n'a pas complété ses 30 heures. Avant de le radier, l'Ordre lui transmet un avis. De combien de temps dispose-t-il, à compter de sa réception, pour remédier à son défaut ?",
+      "choix": [
+        "15 jours",
+        "30 jours",
+        "60 jours",
+        "90 jours"
+      ],
+      "reponse": 3,
+      "explication": "L'avis indique la nature du défaut et accorde un délai de 90 jours pour remédier à la situation."
+    },
+    {
+      "section": "1.2",
+      "question": "Une ingénieure n'a pas suivi une formation qui lui avait été imposée en raison de la nature de ses activités, et ne remédie pas à son défaut dans les délais. Quelle sanction prévoit l'article 16 du Règlement ?",
+      "choix": [
+        "Une amende de 2 500 $",
+        "La limitation de son droit d'exercice",
+        "Une plainte disciplinaire automatique",
+        "Une inspection professionnelle"
+      ],
+      "reponse": 1,
+      "explication": "L'article 16 prévoit la limitation du droit d'exercice dans ce cas (et la radiation du tableau pour le défaut général de formation continue)."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur radié pour défaut de formation continue a depuis complété ses heures. Selon l'article 16 du Règlement, qui lève la sanction ?",
+      "choix": [
+        "Le syndic",
+        "Le conseil de discipline",
+        "Le Conseil d'administration de l'Ordre",
+        "Le Tribunal des professions"
+      ],
+      "reponse": 2,
+      "explication": "La sanction demeure en vigueur jusqu'à la preuve que le défaut est corrigé et qu'elle soit levée par le Conseil d'administration."
+    },
+    {
+      "section": "1.2",
+      "question": "Selon le cadre de référence de l'OIQ, la compétence professionnelle d'un ingénieur se traduit par 3 composantes. Lesquelles ?",
+      "choix": [
+        "Le diplôme, l'expérience et le permis",
+        "Le savoir, le savoir-faire et le savoir-être",
+        "Les heures de formation déclarées",
+        "Le jugement, la rigueur et la créativité"
+      ],
+      "reponse": 1,
+      "explication": "Connaissances (savoir), habiletés (savoir-faire) et aptitudes (savoir-être), pour accomplir les actes conformément aux exigences en vigueur."
+    },
+    {
+      "section": "1.2",
+      "question": "Le cadre de référence des compétences de l'ingénieur comprend des champs transversaux et des champs techniques. Combien de champs compte-t-il au total ?",
+      "choix": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "reponse": 2,
+      "explication": "10 champs : 4 transversaux et 6 techniques organisés selon le cycle de vie du projet d'ingénierie."
+    },
+    {
+      "section": "1.2",
+      "question": "Dans le cadre de référence de l'OIQ, lequel de ces champs est un champ de compétences TRANSVERSALES (et non technique) ?",
+      "choix": [
+        "Établir le mandat",
+        "Concevoir la solution",
+        "Communiquer efficacement",
+        "Soutenir l'exploitation"
+      ],
+      "reponse": 2,
+      "explication": "Transversaux : agir professionnellement, démontrer ses aptitudes personnelles, communiquer efficacement, gérer ses projets et ses équipes."
+    },
+    {
+      "section": "1.2",
+      "question": "Les 6 champs de compétences techniques suivent le cycle de vie d'un projet. Lequel vient EN PREMIER ?",
+      "choix": [
+        "Rechercher les informations et données pertinentes",
+        "Établir le mandat",
+        "Déterminer la solution",
+        "Concevoir la solution"
+      ],
+      "reponse": 1,
+      "explication": "Ordre : établir le mandat → rechercher les données → déterminer la solution → concevoir → surveiller la mise en œuvre → soutenir l'exploitation."
+    },
+    {
+      "section": "1.2",
+      "question": "Une ingénieure d'usine atteste la conformité d'un équipement en service et planifie son démantèlement. À quel champ de compétences techniques ces tâches appartiennent-elles ?",
+      "choix": [
+        "Surveiller la mise en œuvre de la solution",
+        "Soutenir l'exploitation",
+        "Concevoir la solution",
+        "Agir professionnellement"
+      ],
+      "reponse": 1,
+      "explication": "Soutenir l'exploitation : superviser, entretenir, attester la conformité, gérer les risques en continu, désaffecter et démanteler."
+    },
+    {
+      "section": "1.2",
+      "question": "La compétence « Respecter ses obligations déontologiques » (champ Agir professionnellement) comprend 5 éléments. Lequel N'EN FAIT PAS partie ?",
+      "choix": [
+        "Reconnaître les limites de ses compétences et de ses moyens",
+        "Signaler l'incompétence et les comportements non conformes des ingénieurs",
+        "Résoudre les dilemmes éthiques",
+        "Maximiser la rentabilité de son employeur"
+      ],
+      "reponse": 3,
+      "explication": "Éléments : se conformer aux règles de l'art, reconnaître ses limites, signaler l'incompétence, prévenir les conflits de loyauté, résoudre les dilemmes éthiques."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur travaille en géotechnique, un domaine jugé à risque. Quel outil de l'OIQ lui offre une liste de compétences détaillées propres à son domaine pour s'autoévaluer ?",
+      "choix": [
+        "Le Code de déontologie",
+        "Un profil de compétences",
+        "Le questionnaire d'autoévaluation",
+        "Le tableau de l'Ordre"
+      ],
+      "reponse": 1,
+      "explication": "Des profils de compétences sont développés pour certains domaines à risque; ils permettent de se demander : mes actes sont-ils conformes? ma pratique est-elle adéquate?"
+    },
+    {
+      "section": "1.2",
+      "question": "Selon le guide, le cycle annuel de gestion du développement des compétences comporte 3 étapes. Quelle est la bonne séquence ?",
+      "choix": [
+        "Évaluer, former, déclarer",
+        "Planifier le développement, effectuer le suivi du plan, faire le bilan",
+        "Planifier, déclarer, faire approuver",
+        "Former, appliquer, réviser"
+      ],
+      "reponse": 1,
+      "explication": "1. Planifier le développement de ses compétences; 2. Effectuer le suivi de son plan; 3. Faire le bilan de ses activités."
+    },
+    {
+      "section": "1.2",
+      "question": "En évaluant sa situation actuelle, une ingénieure identifie 6 compétences à développer. Combien le guide recommande-t-il d'en retenir par période de référence ?",
+      "choix": [
+        "Une seule",
+        "De deux à trois",
+        "Les six",
+        "Au moins cinq"
+      ],
+      "reponse": 1,
+      "explication": "Retenir de deux à trois compétences, en priorisant l'emploi actuel et les objectifs de carrière, sans nuire à la qualité du travail."
+    },
+    {
+      "section": "1.2",
+      "question": "Pour évaluer sa situation actuelle, un ingénieur examine ses résultats (sécurité, qualité, échéancier, coûts), les changements de normes à venir et ses ambitions. Quels 3 aspects le guide recommande-t-il ainsi ?",
+      "choix": [
+        "Salaire, ancienneté, titre",
+        "Performance professionnelle, environnement professionnel, objectifs de carrière",
+        "Diplôme, permis, assurance",
+        "Clients, fournisseurs, employeur"
+      ],
+      "reponse": 1,
+      "explication": "Performance professionnelle, environnement professionnel et objectifs de carrière."
+    },
+    {
+      "section": "1.2",
+      "question": "Un ingénieur formule l'objectif : « Maîtriser la norme CSA S6 pour concevoir des ponceaux d'ici le 31 décembre ». Dans la formule SMART utilisée par l'OIQ, que signifie le « T » ?",
+      "choix": [
+        "Technique",
+        "Transférable",
+        "Temporellement défini (date)",
+        "Testé"
+      ],
+      "reponse": 2,
+      "explication": "Spécifique, Mesurable, Atteignable, Réaliste, Temporellement défini."
+    },
+    {
+      "section": "1.2",
+      "question": "Un objectif de développement de compétences se compose de 3 éléments selon le guide. Lequel N'EN FAIT PAS partie ?",
+      "choix": [
+        "La connaissance requise",
+        "Le niveau d'habileté qui s'y rapporte",
+        "Les conditions d'application de la compétence",
+        "Le coût de la formation"
+      ],
+      "reponse": 3,
+      "explication": "Les 3 éléments : connaissance requise, niveau d'habileté, conditions d'application."
+    },
+    {
+      "section": "1.2",
+      "question": "Selon le guide, quel est le moyen à privilégier pour développer ses compétences, à bonifier par l'acquisition de connaissances et la rétroaction ?",
+      "choix": [
+        "Les cours universitaires",
+        "L'expérience de travail",
+        "Les conférences",
+        "L'autoapprentissage"
+      ],
+      "reponse": 1,
+      "explication": "L'expérience de travail (défis, projets spéciaux, dossiers complexes, nouvelles tâches) est le moyen à privilégier."
+    },
+    {
+      "section": "1.2",
+      "question": "Une ingénieure combine expérience de travail, rétroaction et acquisition de connaissances. Laquelle de ces activités est ADMISSIBLE en formation continue ?",
+      "choix": [
+        "Relever des défis dans son poste actuel",
+        "Réaliser un projet spécial",
+        "Participer à un groupe de co-développement",
+        "Prendre en charge de nouvelles tâches"
+      ],
+      "reponse": 2,
+      "explication": "Côté rétroaction, le coaching et le groupe de co-développement sont admissibles (ainsi que formations, lectures, conférences); l'expérience de travail elle-même ne l'est pas."
+    },
+    {
+      "section": "1.2",
+      "question": "Après une année de formations, un ingénieur passe directement à la planification de l'année suivante sans analyser l'impact de ses activités. Quelle étape du cycle, souvent négligée, a-t-il omise ?",
+      "choix": [
+        "La planification",
+        "Le suivi du plan",
+        "Le bilan des activités",
+        "L'approbation du plan"
+      ],
+      "reponse": 2,
+      "explication": "Le bilan évalue l'impact sur la pratique et sur les prochains objectifs; souvent négligé, il assure la cohérence du développement."
+    },
+    {
+      "section": "1.2",
+      "question": "Vrai ou faux : selon le Règlement, l'Ordre peut reconnaître la réussite d'une activité de formation continue sur la seule base de la participation, s'il n'y a pas d'évaluation.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "explication": "Vrai. L'Ordre reconnaît la réussite en fonction du résultat d'une évaluation ou de la participation à l'activité; il peut exiger tout document pour vérifier."
+    }
   ]
 }
