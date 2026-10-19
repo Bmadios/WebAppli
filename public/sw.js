@@ -1,6 +1,6 @@
 // Service worker : réseau d'abord, cache en secours → l'appli marche hors-ligne
 // après une première visite, et récupère toujours les dernières questions en ligne.
-const CACHE = 'oiq-prep-v1';
+const CACHE = 'oiq-prep-v2';
 const CORE = [
   './', 'index.html', 'css/styles.css', 'js/app.js', 'manifest.webmanifest',
   'icons/icon.svg', 'data/blocs.json',

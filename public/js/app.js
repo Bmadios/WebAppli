@@ -211,8 +211,9 @@ async function renderQuiz(id, section) {
 
   // Mélange questions et choix, en gardant la bonne réponse
   const questions = shuffle(pool).map((q) => {
-    const opts = shuffle(q.choix.map((txt, idx) => ({ txt, ok: idx === q.reponse })));
-    return { ...q, opts };
+    const opts = q.choix.map((txt, idx) => ({ txt, ok: idx === q.reponse }));
+    const vraiFaux = q.choix.length === 2 && q.choix[0] === 'Vrai';
+    return { ...q, opts: vraiFaux ? opts : shuffle(opts) };
   });
   let i = 0;
   let score = 0;

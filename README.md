@@ -64,26 +64,4 @@ python -m http.server 8000
 Ouvrir http://localhost:8000. Pour tester sur le téléphone (même Wi-Fi) :
 `http://<IP-du-PC>:8000`.
 
-## Déployer sur Render (gratuit)
 
-1. Créer un repo GitHub puis, depuis ce dossier :
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/<utilisateur>/<repo>.git
-   git push -u origin main
-   ```
-2. Sur https://dashboard.render.com : **New → Blueprint**, choisir le repo.
-   Render lit `render.yaml` et crée le site statique `oiq-prep`.
-   *(Ou : New → Static Site, Build Command vide, Publish Directory `public`.)*
-3. Chaque `git push` sur `main` redéploie automatiquement.
-
-## Notes
-
-- La progression (cartes maîtrisées, meilleur score) est stockée dans le navigateur de
-  chaque appareil ; elle n'est pas synchronisée entre PC et téléphone.
-- Les PDF de l'OIQ sont protégés par droit d'auteur (usage personnel seulement) : ils
-  sont exclus par `.gitignore`. Rédiger les cartes et questions dans ses propres mots,
-  et garder le repo **privé** si le contenu reprend le document d'étude.

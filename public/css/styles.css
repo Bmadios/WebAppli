@@ -109,22 +109,26 @@ select {
   border: none; background: none; cursor: pointer; perspective: 1200px;
   font: inherit; color: inherit;
 }
+/* Les deux faces sont empilées dans la même cellule de grille :
+   la carte prend la hauteur de la face la plus longue. */
 .flip-inner {
-  position: relative; min-height: 260px;
+  display: grid;
   transition: transform .45s ease; transform-style: preserve-3d;
 }
 .flip.flipped .flip-inner { transform: rotateY(180deg); }
 .face {
-  position: absolute; inset: 0;
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
-  padding: 24px; text-align: center; font-size: 1.15rem;
+  grid-area: 1 / 1;
+  min-height: 260px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px;
+  padding: 24px 20px; text-align: center; font-size: 1.1rem;
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
   box-shadow: var(--shadow); backface-visibility: hidden; -webkit-backface-visibility: hidden;
-  overflow-y: auto;
 }
+.face p { margin: 0; white-space: pre-line; }
 .face.front { border-top: 4px solid var(--accent); }
-.face.back { transform: rotateY(180deg); border-top: 4px solid var(--ok); }
-.hint { position: absolute; bottom: 12px; font-size: .8rem; color: var(--muted); }
+.face.back { transform: rotateY(180deg); border-top: 4px solid var(--ok); text-align: left; font-size: 1rem; }
+.hint { font-size: .8rem; color: var(--muted); }
+.feedback p, .list li { white-space: pre-line; }
 
 /* --- Quiz --- */
 .question { font-size: 1.15rem; margin: 18px 0 14px; }
