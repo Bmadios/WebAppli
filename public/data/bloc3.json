@@ -1,0 +1,37 @@
+{
+  "id": 3,
+  "titre": "Lois et règlements applicables",
+  "sections": [
+    { "id": "3.1", "titre": "Cadre juridique et génie : saisir la portée de son engagement" },
+    { "id": "3.2", "titre": "La Loi sur les ingénieurs : décoder la profession" },
+    { "id": "3.3", "titre": "L'inspection professionnelle en génie" },
+    { "id": "3.4", "titre": "Le processus disciplinaire en génie" },
+    { "id": "3.5", "titre": "Contrer la pratique illégale : protéger le public" }
+  ],
+  "flashcards": [
+    {
+      "section": "3.1",
+      "recto": "En cas de perte d'un ouvrage immobilier, pendant combien d'années après la fin des travaux l'ingénieur est-il solidairement responsable (Code civil) ?",
+      "verso": "5 ans. Au-delà, l'ingénieur demeure responsable de ses travaux selon les règles habituelles de responsabilité civile."
+    },
+    {
+      "section": "3.3",
+      "recto": "Depuis combien d'années un inspecteur (ou expert du CIP) doit-il être ingénieur ?",
+      "verso": "Depuis au moins 10 ans."
+    }
+  ],
+  "quiz": [
+    {
+      "section": "3.4",
+      "question": "Quel comité rend un avis sur la décision d'un syndic de ne pas porter plainte contre un membre ?",
+      "choix": [
+        "Le conseil de discipline",
+        "Le comité d'inspection professionnelle",
+        "Le comité de révision",
+        "Le Tribunal des professions"
+      ],
+      "reponse": 2,
+      "explication": "Le comité de révision rend un avis sur la décision d'un syndic de ne pas porter plainte."
+    }
+  ]
+}

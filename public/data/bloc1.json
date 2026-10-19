@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "titre": "Système professionnel et développement professionnel",
+  "sections": [
+    { "id": "1.1", "titre": "Les rouages du système professionnel" },
+    { "id": "1.2", "titre": "Garder ses connaissances à jour : un devoir de l'ingénieur" }
+  ],
+  "flashcards": [
+    {
+      "section": "1.1",
+      "recto": "Quelle est la loi-cadre qui régit le système professionnel québécois ?",
+      "verso": "Le Code des professions."
+    },
+    {
+      "section": "1.1",
+      "recto": "Nommez les 5 acteurs du système professionnel québécois.",
+      "verso": "Le gouvernement, le Tribunal des professions, l'Office des professions du Québec, le Conseil interprofessionnel du Québec et les ordres professionnels."
+    },
+    {
+      "section": "1.2",
+      "recto": "Combien d'heures de formation continue l'ingénieur doit-il cumuler par période de référence ?",
+      "verso": "Au moins 30 heures."
+    }
+  ],
+  "quiz": [
+    {
+      "section": "1.1",
+      "question": "Quelle est la raison d'être principale d'un ordre professionnel ?",
+      "choix": [
+        "Défendre les intérêts de ses membres",
+        "La protection du public",
+        "Négocier les conditions de travail",
+        "Promouvoir la profession auprès des employeurs"
+      ],
+      "reponse": 1,
+      "explication": "Les ordres professionnels existent, veillent et agissent essentiellement pour la protection du public."
+    },
+    {
+      "section": "1.2",
+      "question": "Au plus tard quand l'ingénieur doit-il transmettre sa déclaration de formation continue ?",
+      "choix": [
+        "Le 31 mars qui suit la période de référence",
+        "Le 1er avril qui suit la période de référence",
+        "Le 15 avril qui suit la période de référence",
+        "Le 30 juin qui suit la période de référence"
+      ],
+      "reponse": 2,
+      "explication": "La déclaration doit être transmise au plus tard le 15 avril qui suit la fin de chaque période de référence."
+    }
+  ]
+}

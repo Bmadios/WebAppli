@@ -1,0 +1,14 @@
+{
+  "name": "Prépa Examen OIQ",
+  "short_name": "Prépa OIQ",
+  "description": "Flash cards et quiz pour l'examen professionnel de l'OIQ",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

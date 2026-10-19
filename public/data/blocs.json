@@ -1,0 +1,6 @@
+[
+  { "id": 1, "fichier": "data/bloc1.json", "titre": "Système professionnel et développement professionnel", "couleur": "#2563eb" },
+  { "id": 2, "fichier": "data/bloc2.json", "titre": "Éthique, déontologie et professionnalisme", "couleur": "#7c3aed" },
+  { "id": 3, "fichier": "data/bloc3.json", "titre": "Lois et règlements applicables", "couleur": "#059669" },
+  { "id": 4, "fichier": "data/bloc4.json", "titre": "Normes de pratique professionnelle", "couleur": "#d97706" }
+]

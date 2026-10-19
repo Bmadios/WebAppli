@@ -1,0 +1,36 @@
+{
+  "id": 4,
+  "titre": "Normes de pratique professionnelle",
+  "sections": [
+    { "id": "4.1", "titre": "Les documents d'ingénierie" },
+    { "id": "4.2", "titre": "Le contrat : un indispensable" },
+    { "id": "4.3", "titre": "Surveillance des travaux" },
+    { "id": "4.4", "titre": "La tenue de vos dossiers" },
+    { "id": "4.5", "titre": "Zoom sur trois étapes clés d'un projet d'ingénierie" },
+    { "id": "4.6", "titre": "La propriété intellectuelle" },
+    { "id": "4.7", "titre": "Gérer le risque" },
+    { "id": "4.8", "titre": "Introduction à la gestion de projet" },
+    { "id": "4.9", "titre": "La synergie d'équipe" }
+  ],
+  "flashcards": [
+    {
+      "section": "4.1",
+      "recto": "Donnez des exemples de représentations graphiques considérées comme des plans.",
+      "verso": "Schémas d'écoulement, cartographies de circuits imprimés, diagrammes logiques de contrôle, schémas-blocs de programmation, et toute illustration comportant des éléments de conception."
+    }
+  ],
+  "quiz": [
+    {
+      "section": "4.1",
+      "question": "Lequel de ces documents est considéré comme un plan ?",
+      "choix": [
+        "Un courriel de suivi de chantier",
+        "Un schéma-bloc de programmation",
+        "Une facture d'honoraires",
+        "Un procès-verbal de réunion"
+      ],
+      "reponse": 1,
+      "explication": "Les schémas-blocs de programmation comportent des éléments de conception : ils sont considérés comme des plans."
+    }
+  ]
+}

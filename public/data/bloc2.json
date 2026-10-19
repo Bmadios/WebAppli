@@ -1,0 +1,38 @@
+{
+  "id": 2,
+  "titre": "Éthique, déontologie et professionnalisme",
+  "sections": [
+    { "id": "2.1", "titre": "L'éthique : pourquoi est-ce si important ?" },
+    { "id": "2.2", "titre": "La déontologie de l'ingénieur : rappels et explications" },
+    { "id": "2.3", "titre": "L'intégrité de l'ingénieur : éviter les pièges" },
+    { "id": "2.4", "titre": "L'indépendance et le désintéressement : les clés de l'autonomie" },
+    { "id": "2.5", "titre": "Ingénieur : un titre réservé et reconnu" },
+    { "id": "2.6", "titre": "Le professionnalisme : valeurs et devoirs" }
+  ],
+  "flashcards": [
+    {
+      "section": "2.2",
+      "recto": "Quelle est la différence entre l'éthique et la déontologie ?",
+      "verso": "L'éthique invite à réfléchir sur les valeurs qui motivent l'action. La déontologie est l'ensemble des devoirs et obligations (normes minimales obligatoires) imposés aux professionnels."
+    },
+    {
+      "section": "2.2",
+      "recto": "Y a-t-il un délai de prescription en droit disciplinaire ?",
+      "verso": "Non. Le simple écoulement du temps ne met pas un membre à l'abri d'une sanction."
+    }
+  ],
+  "quiz": [
+    {
+      "section": "2.2",
+      "question": "Le Code de déontologie des ingénieurs et une politique d'entreprise sont en conflit. Lequel prévaut ?",
+      "choix": [
+        "La politique d'entreprise",
+        "Le Code de déontologie des ingénieurs",
+        "Le contrat de travail",
+        "Celui qui est le plus récent"
+      ],
+      "reponse": 1,
+      "explication": "Le Code de déontologie est un règlement d'ordre public qui a préséance sur les règlements ou politiques d'entreprise."
+    }
+  ]
+}
